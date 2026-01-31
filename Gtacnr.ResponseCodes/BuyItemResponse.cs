@@ -1,0 +1,36 @@
+namespace Gtacnr.ResponseCodes;
+
+public enum BuyItemResponse
+{
+	Timeout,
+	Success,
+	GenericError,
+	Busy,
+	InvalidUser,
+	InvalidCharacter,
+	InvalidPed,
+	InvalidSupply,
+	InvalidSupplyData,
+	InvalidBusiness,
+	InvalidItem,
+	InvalidStorage,
+	InvalidVehicle,
+	InvalidAmount,
+	TooFar,
+	OutOfStock,
+	NoMoney,
+	TransactionError,
+	InventoryError,
+	NoSpaceLeft,
+	ItemLimitReached,
+	JobNotPermitted,
+	VehicleTypeNotPermitted,
+	VehicleNotOwned,
+	InsufficientLevel,
+	InsufficientMembershipTier,
+	InsufficientMembershipTierStorage,
+	ScriptCanceled,
+	DuplicateIdentifier,
+	NoCertification,
+	NotForSaleAtThisMoment
+}

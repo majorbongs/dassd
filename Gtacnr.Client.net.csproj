@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Gtacnr.Client.net</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net452</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Gtacnr.Client.Libs.OpenCCNet.TSCharacters.txt" />
+    <EmbeddedResource Include="Gtacnr.Client.Libs.OpenCCNet.TSCharacters.txt" LogicalName="Gtacnr.Client.Libs.OpenCCNet.TSCharacters.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="CitizenFX.Core.Client" />
+    <Reference Include="System.Core" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Downloads\212.102.58.130\212.102.58.130\resources\gtacnr\bin\client\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ScaleformUI">
+      <HintPath>..\..\Downloads\212.102.58.130\212.102.58.130\resources\gtacnr\bin\client\ScaleformUI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+</Project>
