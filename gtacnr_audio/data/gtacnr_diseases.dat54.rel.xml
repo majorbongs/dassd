@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<Dat54>
+  <Version value="7314721"/>
+  <ContainerPaths>
+    <Item>gtacnr_audio\diseases</Item>
+  </ContainerPaths>
+  <Items>
+    <Item type="SimpleSound">
+      <Name>cough_f_1_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>cough_f_1</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>cough_f_2_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>cough_f_2</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>cough_f_3_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>cough_f_3</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>cough_f_4_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>cough_f_4</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>cough_m_1_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>cough_m_1</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>cough_m_2_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>cough_m_2</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>cough_m_3_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>cough_m_3</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>cough_m_4_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>cough_m_4</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>vomit_1_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>vomit_1</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>vomit_2_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>vomit_2</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>vomit_3_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>vomit_3</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>vomit_4_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>vomit_4</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>vomit_5_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>gtacnr_audio/diseases</ContainerName>
+      <FileName>vomit_5</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SoundSet">
+      <Name>gtacnr_diseases</Name>
+      <Header>
+        <Flags value="0xAAAAAAAA"/>
+      </Header>
+      <SoundSets>
+        <Item>
+          <ScriptName>cough_f_1</ScriptName>
+          <ChildSound>cough_f_1_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>cough_f_2</ScriptName>
+          <ChildSound>cough_f_2_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>cough_f_3</ScriptName>
+          <ChildSound>cough_f_3_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>cough_f_4</ScriptName>
+          <ChildSound>cough_f_4_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>cough_m_1</ScriptName>
+          <ChildSound>cough_m_1_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>cough_m_2</ScriptName>
+          <ChildSound>cough_m_2_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>cough_m_3</ScriptName>
+          <ChildSound>cough_m_3_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>cough_m_4</ScriptName>
+          <ChildSound>cough_m_4_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>vomit_1</ScriptName>
+          <ChildSound>vomit_1_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>vomit_2</ScriptName>
+          <ChildSound>vomit_2_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>vomit_3</ScriptName>
+          <ChildSound>vomit_3_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>vomit_4</ScriptName>
+          <ChildSound>vomit_4_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>vomit_5</ScriptName>
+          <ChildSound>vomit_5_sp</ChildSound>
+        </Item>
+      </SoundSets>
+    </Item>
+  </Items>
+</Dat54>

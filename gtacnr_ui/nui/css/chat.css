@@ -1,0 +1,596 @@
+/*
+ * Grand Theft Auto: Cops n' Robbers
+ * Copyright (c) 2020-2023 Sasinosoft Games, Strazzullo.NET LLC
+ * All Rights Reserved
+ */
+
+button:focus {
+    outline: 0;
+}
+
+#chat-box, #chat-input-container, #suggestions-container, #panel-container, #chat-input-container > input {
+    font-family: 'Twemoji Country Flags', 'Lato', 'Helvetica', 'Arial', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+    background: rgb(0, 136, 199);
+    color: #ffffff;
+}
+
+#chat-box {
+    overflow: hidden;
+    display: block;
+    opacity: 0.0;
+    user-select: none;
+    height: 21%;
+    width: 35%;
+}
+
+#chat-content {
+    color: white;
+    text-overflow: ellipsis;
+    
+    font-size: 1.9vh;
+    font-weight: bold;
+    
+    text-shadow:
+    -1px -1px 0 #000,
+    0   -1px 0 #000,
+    1px -1px 0 #000,
+    1px  0   0 #000,
+    1px  1px 0 #000,
+    0    1px 0 #000,
+    -1px  1px 0 #000,
+    -1px  0   0 #000;
+}
+
+#chat-input-container {
+    background-color: #000000A0;
+    border-radius: 5px;
+    overflow: hidden;
+    display: none;
+    margin-bottom: 4px;
+}
+
+#chat-input, #chat-input:focus {
+    margin: 8px 0px 8px 8px;
+    flex: auto;
+    color: white;
+    background-color: #0000;
+
+    border: none;
+    border-width:0px;
+    box-shadow: none;
+    outline: none;
+
+    text-align: left;
+    font-size: 1.7vh;
+}
+
+#button-container {
+    background-color: #0000;
+    padding: 0px 4px 0px 4px;
+    margin-left: 4px;
+    user-select: none;
+}
+
+/* PANELS */
+.panel {
+    width: var(--width);
+    height: var(--height);
+    color: white;
+    border-radius: 5px;
+    background-color: #000000A0;
+    user-select: none;
+    display: none;
+}
+
+.panel-left {
+    margin-left: calc(35% + 24px - var(--width));
+    margin-right: auto;
+}
+
+.panel-right {
+    margin-left: auto;
+    margin-right: 24px;
+}
+
+/* COLOR PANEL */
+#color-panel {
+    --width: 200px;
+    --height: 200px;
+}
+
+#color-div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 8px;
+    gap: 8px;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    height: 90%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.color-item {
+    width: calc(var(--width) * 0.15);
+    height: calc(var(--height) * 0.15);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* EMOJI PANEL */
+#emoji-panel {
+    --width: 200px;
+    --height: 200px;
+}
+
+#emoji-div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    align-self: center;
+    height: 95%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#emoji-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin-bottom: 8px;
+}
+
+#emote-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.panel-heading {
+    font-size: 14px;
+    color: #909090;
+    margin: 2px;
+}
+
+.emoji-item {
+    width: calc(var(--width) * 0.15);
+    height: calc(var(--height) * 0.15);
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.8vh;
+}
+
+.emote {
+    width: 110%;
+    height: auto;
+    margin: auto;
+}
+
+.emote-item {
+    width: calc(var(--width) * 0.2);
+    height: calc(var(--height) * 0.2);
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.8vh;
+}
+
+.chat-emote {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    vertical-align: top;
+    width: 64px;
+    height: 64px;
+    border-radius: 5px;
+}
+
+.lock-overlay {
+    position: absolute;
+    width: 16px;
+    height: auto;
+    margin: 50%;
+}
+
+.lock-overlay-emote {
+    position: absolute;
+    top: 12px;
+    left: 16px;
+    width: 16px;
+    height: auto;
+    z-index: 1000;
+}
+
+/* GIF PANEL */
+#gif-panel {
+    --width: 400px;
+    --height: 400px;
+}
+
+#gif-panel-layout {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+    width: 100%;
+    height: 100%;
+}
+
+#gif-search-input {
+    width: auto;
+
+    margin: 12px;
+    
+    padding: 8px;
+    color: white;
+    background-color: rgba(20, 20, 20, 0.5);
+
+    border: none;
+    border-width:0px;
+    border-radius: 3px;
+
+    box-shadow: none;
+    outline: none;
+
+    text-align: left;
+    font-size: 1.7vh;
+
+    flex: 0 1 auto;
+}
+
+#gif-div {
+    width: auto;
+    padding-left: 6px;
+    padding-right: 12px;
+    flex: 1 1 auto;
+    flex-grow: 1;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#gif-col-l {
+    float: left;
+    width: 50%;
+}
+
+#gif-col-r {
+    float: right;
+    width: 50%;
+}
+
+.gif-thumbnail {
+    width: calc(100% - 10px);
+    margin: 2px 10px 2px 10px;
+    border: 3px solid #0000;
+    border-radius: 5px;
+}
+
+.gif-thumbnail:hover {
+    border: 3px solid #d0d0d0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.gif-placeholder {
+    width: calc(100% - 10px);
+    height: 80px;
+    margin: 4px 16px;
+    border: 3px solid #0000;
+    border-radius: 5px;
+    background-color: rgba(20, 20, 20, 0.50);
+}
+
+/* REACTIONS PANEL */
+#reactions-panel {
+    position: absolute;
+    margin-top: 32px;
+    --width: 200px;
+    --height: 200px;
+}
+
+#reactions-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    padding-top: 8px;
+    margin-bottom: 8px;
+}
+
+#reactions-div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    align-self: center;
+    height: 95%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.reaction-tooltip-text {
+    text-align: left !important;
+    top: 32px !important;
+    left: -2px !important;
+    padding: 4px 4px !important;
+    font-size: 1.2vh !important;
+    background-color: rgba(0, 0, 0, 0.6) !important;
+    min-width: max-content !important;
+}
+
+/* CHAT CONTENT */
+.chat-line {
+    margin: 0px;
+    padding: 2px 0px;
+    vertical-align: middle;
+}
+
+.chat-image {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    vertical-align: top;
+    height: 7.7vh;
+    width: auto;
+    border-radius: 5px;
+}
+
+.chat-box-left {
+    text-align: left;
+    margin-top: 5%;
+    margin-bottom: auto;
+    margin-left: 24px;
+    margin-right: auto;
+}
+
+.chat-box-right {
+    text-align: right;
+    margin-top: 15%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 24px;
+}
+
+.chat-input-left {
+    text-align: left;
+    margin-top: 16px;
+    margin-bottom: auto;
+    margin-left: 24px;
+    margin-right: auto;
+    width: 35%;
+}
+
+.chat-input-right {
+    text-align: right;
+    margin-top: 16px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 24px;
+    width: 35%;
+}
+
+.chat-button {
+    width: auto;
+    height: 100%;
+    margin: 0;
+    padding: 8px 2px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.chat-button:hover {
+    background-color: #00000040;
+}
+
+.chat-button-img {
+    width: 3vh;
+}
+
+.reaction-buttons {
+    margin-left: 4px;
+}
+
+.reaction-button {
+    min-width: 2.5vh;
+    height: 2.5vh;
+    padding: 2px;
+    border: none;
+    border-width:0px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #00000050;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0;
+    margin-right: 4px;
+    padding-right: 4px;
+    font-size: 16px;
+    color: white;
+}
+
+.reaction-button-reacted {
+    outline: solid 2px #00000080;
+    margin-right: 8px !important;
+}
+
+.reaction-button-reacted:focus {
+    outline: solid 2px #00000080;
+}
+
+.reaction-button:hover {
+    background-color: #000000A0;
+}
+
+.new-reaction-button {
+    background-image: url("../img/react.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-position: center;
+}
+
+.author {
+    cursor: pointer;
+}
+
+.author:hover {
+    text-decoration: underline;
+}
+
+/* SUGGESTIONS */
+#suggestions-container {
+    color: rgb(215, 215, 215);
+    background-color: #000000A0;
+    user-select: none;
+
+    overflow: hidden;
+    padding: 12px 8px;
+    
+    display: none;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    border: none;
+    border-width:0px;
+    border-radius: 5px;
+
+    box-shadow: none;
+    outline: none;
+
+    text-align: left;
+    vertical-align: middle;
+    font-size: 1.7vh;
+}
+
+.suggestions-left {
+    text-align: left;
+    margin-top: 16px;
+    margin-bottom: auto;
+    margin-left: 24px;
+    margin-right: auto;
+    width: 35%;
+}
+
+.suggestions-right {
+    text-align: left;
+    margin-top: 16px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 24px;
+    width: 35%;
+}
+
+.suggestion {
+    margin: 4px 0px 4px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.suggestion-important {
+    color: #aa0000;
+}
+
+.suggestion-command {
+    float: left;
+}
+
+.suggestion-param {
+    margin-left: 5px;
+}
+
+.suggestion-focus {
+    font-weight: bold;
+}
+
+.suggestion-help {
+    width: 100%;
+    font-size: 1.46vh;
+    flex-grow: 1;
+}
+
+.suggestion-tab {
+    text-align: end;
+    margin-right: 4px;
+    float: right;
+    flex-grow: 1;
+    font-size: 1.46vh;
+}
+
+/* TOOLTIPS */
+.cnrtooltip {
+    position: relative;
+    display: inline-block;
+    visibility: visible;
+    opacity: 1;
+}
+
+.cnrtooltip .cnrtooltiptext {
+    visibility: hidden;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    text-align: center;
+    top: -48px;
+    left: -8px;
+    padding: 4px;
+    border-radius: 5px;
+    position: absolute;
+    pointer-events: none;
+    z-index: 100;
+    font-size: 1.6vh;
+}
+
+.cnrtooltip:hover .cnrtooltiptext {
+    visibility: visible;
+}
+
+/* SCROLLBAR */
+/* Width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #00000010;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background-color: rgba(40, 40, 40, 1.0);
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(80, 80, 80, 1.0);
+    border-radius: 5px;
+}
+
+/* MISC */
+.locked {
+    pointer-events: none;
+}

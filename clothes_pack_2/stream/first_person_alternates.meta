@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FirstPersonAlternateData>
+    <alternates>
+        <!--  Template 
+        <Item>
+            <assetName>MP__Freemode_01_mp__clothes_pack_2/</assetName>
+            <alternate value="1" />
+        </Item>
+        -->
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_2/jbib_029_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_2/jbib_040_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_2/berd_007_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_2/berd_011_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_2/berd_015_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <!-- FEMALE -->
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_2/berd_042_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_2/jbib_063_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <!-- MALE -->
+    </alternates>
+</FirstPersonAlternateData>

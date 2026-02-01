@@ -1,0 +1,382 @@
+{
+    "up": {
+        "emoji": "👍",
+        "shortcuts": []
+    },
+    "down": {
+        "emoji": "👎",
+        "shortcuts": []
+    },
+    "heart": {
+        "emoji": "❤️",
+        "shortcuts": [ "&lt;3" ]
+    },
+    "fire": {
+        "emoji": "🔥",
+        "shortcuts": []
+    },
+    "money": {
+        "emoji": "💸",
+        "shortcuts": [ "$$$" ]
+    },
+    "ice": {
+        "emoji": "🧊",
+        "shortcuts": []
+    },
+    "drugs": {
+        "emoji": "💊",
+        "shortcuts": []
+    },
+    "skull": {
+        "emoji": "💀",
+        "shortcuts": [ ":dead:" ]
+    },
+    "dead_rose": {
+        "emoji": "🥀",
+        "shortcuts": [ ]
+    },
+    "cap": {
+        "emoji": "🧢",
+        "shortcuts": []
+    },
+    "hello": {
+        "emoji": "👋",
+        "shortcuts": [ ":wave:" ]
+    },
+    "middle_finger": {
+        "emoji": "🖕",
+        "shortcuts": [ ":fu:" ]
+    },
+    "ok": {
+        "emoji": "👌",
+        "shortcuts": []
+    },
+    "muscle": {
+        "emoji": "💪",
+        "shortcuts": []
+    },
+    "fist": {
+        "emoji": "👊",
+        "shortcuts": []
+    },
+    "handshake": {
+        "emoji": "🤝",
+        "shortcuts": [ ":hs:" ]
+    },
+    "grin": {
+        "emoji": "😀",
+        "shortcuts": [ ":D" ]
+    },
+    "grin2": {
+        "emoji": "😁",
+        "shortcuts": [ "&lt;D" ]
+    },
+    "happy": {
+        "emoji": "😃",
+        "shortcuts": [ "=D" ]
+    },
+    "grin_smile": {
+        "emoji": "😄",
+        "shortcuts": [ "^D" ]
+    },
+    "smile": {
+        "emoji": "🙂",
+        "shortcuts": [ ":)" ]
+    },
+    "upside_down_smile": {
+        "emoji": "🙃",
+        "shortcuts": [ "(:" ]
+    },
+    "joy": {
+        "emoji": "😂",
+        "shortcuts": [ "xd", ":lol:" ]
+    },
+    "grin_sweat": {
+        "emoji": "😅",
+        "shortcuts": [ "^'D" ]
+    },
+    "wink": {
+        "emoji": "😉",
+        "shortcuts": [ ";)" ]
+    },
+    "smiling_eyes": {
+        "emoji": "😊",
+        "shortcuts": [ "^)" ]
+    },
+    "tongue_out": {
+        "emoji": "😋",
+        "shortcuts": [ ":P" ]
+    },
+    "cool": {
+        "emoji": "😎",
+        "shortcuts": [ "B)" ]
+    },
+    "cry": {
+        "emoji": "😢",
+        "shortcuts": [ ":'(" ]
+    },
+    "sad": {
+        "emoji": "😞",
+        "shortcuts": [ ":(" ]
+    },
+    "sob": {
+        "emoji": "😭",
+        "shortcuts": [ ":c" ]
+    },
+    "angry": {
+        "emoji": "😠",
+        "shortcuts": [ "&rt;(" ]
+    },
+    "rage": {
+        "emoji": "😡",
+        "shortcuts": [ ]
+    },
+    "surprised": {
+        "emoji": "😮",
+        "shortcuts": [ ":O", "o.o" ]
+    },
+    "distressed": {
+        "emoji": "😣",
+        "shortcuts": [ "x_x" ]
+    },
+    "zip": {
+        "emoji": "🤐",
+        "shortcuts": [ ":X" ]
+    },
+    "rofl": {
+        "emoji": "🤣",
+        "shortcuts": [ ":lmao:", ":lmfao:" ]
+    },
+    "eyes": {
+        "emoji": "👀",
+        "shortcuts": []
+    },
+    "kiss": {
+        "emoji": "😘",
+        "shortcuts": [ ":*" ]
+    },
+    "love_eyes": {
+        "emoji": "😍",
+        "shortcuts": [ ]
+    },
+    "star_eyes": {
+        "emoji": "🤩",
+        "shortcuts": [ "*D" ]
+    },
+    "roll_eyes": {
+        "emoji": "🙄",
+        "shortcuts": []
+    },
+    "party": {
+        "emoji": "🥳",
+        "shortcuts": []
+    },
+    "thinking": {
+        "emoji": "🤔",
+        "shortcuts": []
+    },
+    "smirk": {
+        "emoji": "😏",
+        "shortcuts": []
+    },
+    "confused": {
+        "emoji": "😕",
+        "shortcuts": [ ":\\" ]
+    },
+    "masked": {
+        "emoji": "😷",
+        "shortcuts": []
+    },
+    "scared": {
+        "emoji": "😨",
+        "shortcuts": [ "D:" ]
+    },
+    "scream": {
+        "emoji": "😱",
+        "shortcuts": []
+    },
+    "cold": {
+        "emoji": "🥶",
+        "shortcuts": []
+    },
+    "hot": {
+        "emoji": "🥵",
+        "shortcuts": []
+    },
+    "shh": {
+        "emoji": "🤫",
+        "shortcuts": [ ":shush:" ]
+    },
+    "speechless": {
+        "emoji": "😶",
+        "shortcuts": []
+    },
+    "expressionless": {
+        "emoji": "😑",
+        "shortcuts": [ "-.-" ]
+    },
+    "neutral": {
+        "emoji": "😐",
+        "shortcuts": []
+    },
+    "dizzy": {
+        "emoji": "😵",
+        "shortcuts": []
+    },
+    "drooling": {
+        "emoji": "🤤",
+        "shortcuts": []
+    },
+    "pray": {
+        "emoji": "🙏",
+        "shortcuts": []
+    },
+    "pray2": {
+        "emoji": "🤲",
+        "shortcuts": []
+    },
+    "glorify": {
+        "emoji": "🙌",
+        "shortcuts": []
+    },
+    "sleeping": {
+        "emoji": "😴",
+        "shortcuts": []
+    },
+    "eww": {
+        "emoji": "🤢",
+        "shortcuts": []
+    },
+    "money_mouth": {
+        "emoji": "🤑",
+        "shortcuts": [ "$_$" ]
+    },
+    "clown": {
+        "emoji": "🤡",
+        "shortcuts": []
+    },
+    "devil": {
+        "emoji": "😈",
+        "shortcuts": [ ":shit:", ":crap:" ]
+    },
+    "poop": {
+        "emoji": "💩",
+        "shortcuts": [ ":shit:", ":crap:" ]
+    },
+    "tongue": {
+        "emoji": "👅",
+        "shortcuts": []
+    },
+    "bomb": {
+        "emoji": "💣",
+        "shortcuts": []
+    },
+    "dope": {
+        "emoji": "💉",
+        "shortcuts": []
+    },
+    "pig": {
+        "emoji": "🐷",
+        "shortcuts": []
+    },
+    "cow": {
+        "emoji": "🐮",
+        "shortcuts": []
+    },
+    "rooster": {
+        "emoji": "🐓",
+        "shortcuts": [ ":cock:" ]
+    },
+    "tiger": {
+        "emoji": "🐯",
+        "shortcuts": []
+    },
+    "rabbit": {
+        "emoji": "🐰",
+        "shortcuts": []
+    },
+    "corn": {
+        "emoji": "🌽",
+        "shortcuts": []
+    },
+    "police": {
+        "emoji": "🚨",
+        "shortcuts": [ ":cops:" ]
+    },
+    "medic": {
+        "emoji": "🩺",
+        "shortcuts": [ ":ems:" ]
+    },
+    "mechanic": {
+        "emoji": "🔧",
+        "shortcuts": [ ":mech:" ]
+    },
+    "gun": {
+        "emoji": "🔫",
+        "shortcuts": []
+    },
+    "star": {
+        "emoji": "⭐",
+        "shortcuts": []
+    },
+    "car": {
+        "emoji": "🚗",
+        "shortcuts": []
+    },
+    "rocket": {
+        "emoji": "🚀",
+        "shortcuts": []
+    },
+    "drop": {
+        "emoji": "💧",
+        "shortcuts": [ ":drip:" ]
+    },
+    "rainbow": {
+        "emoji": "🌈",
+        "shortcuts": []
+    },
+    "bolt": {
+        "emoji": "⚡",
+        "shortcuts": []
+    },
+    "eggplant": {
+        "emoji": "🍆",
+        "shortcuts": []
+    },
+    "pizza": {
+        "emoji": "🍕",
+        "shortcuts": []
+    },
+    "burger": {
+        "emoji": "🍔",
+        "shortcuts": [ ":food:" ]
+    },
+    "clock": {
+        "emoji": "🕒",
+        "shortcuts": []
+    },
+    "gift": {
+        "emoji": "🎁",
+        "shortcuts": []
+    },
+    "mindblown": {
+        "emoji": "🤯",
+        "shortcuts": [ ]
+    },
+    "zzz": {
+        "emoji": "💤",
+        "shortcuts": []
+    },
+    "explosion": {
+        "emoji": "💥",
+        "shortcuts": []
+    },
+    "v": {
+        "emoji": "✅",
+        "shortcuts": [ ":tick:", ":checkmark:" ]
+    },
+    "x": {
+        "emoji": "❌",
+        "shortcuts": []
+    }
+}

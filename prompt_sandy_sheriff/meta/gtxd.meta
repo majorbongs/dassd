@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CMapParentTxds>
+  <txdRelationships>
+    <Item>
+      <parent>prompt_sandy_sheriff_txd_2</parent>
+      <child>prompt_sandy_sheriff_txd</child>
+    </Item>
+  </txdRelationships>
+</CMapParentTxds>

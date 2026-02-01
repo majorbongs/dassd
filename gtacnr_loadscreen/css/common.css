@@ -1,0 +1,191 @@
+/*
+ * Grand Theft Auto Cops And Robbers
+ * Copyright (c) 2020 - Sasinosoft Games, Strazzullo.NET LLC
+ * All Rights Reserved
+ *
+ * This source code is protected by U.S. and international copyright laws.
+ * Usage and distribution without written permission of the author is strictly prohibited.
+ */
+
+ a {
+	color: #A90A00;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #A90A00;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: underline;
+}
+
+h1 {
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h4 {
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h5 {
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h6 {
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+}
+
+p {
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	overflow-x: hidden;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.a-no-format {
+	font-weight: normal;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+}
+
+.a-no-format:hover {
+	font-weight: normal;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+}
+
+.bg-accent {
+	background-color: #A90A00;
+}
+
+.bg-none {
+	background-color: transparent;
+}
+
+.text-accent {
+	color: #A90A00;
+}
+
+.text-white {
+	color: #FFFFFF;
+}
+
+.text-gray {
+	color: #404040;
+}
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+.btn-width-small {
+	width: 80px;
+}
+
+.btn-width-medium {
+	width: 140px;
+}
+
+.btn-width-large {
+	width: 250px;
+}
+
+.white-link {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.white-link:hover {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.subtitle {
+	font-weight: bold;
+}
+
+.avatar {
+	width: 200px;
+	height: 200px;
+	vertical-align: middle;
+	border: 1px solid #DFDFDF;
+	border-radius: 50%;
+}
+
+.row-margin-top {
+	margin-top: -30px;
+}
+
+.row-margin-top > div {
+	margin-top: 30px;
+}
+
+.dropdown-item:active {
+	background-color: #A90A00;
+}
+
+.text-small {
+	font-size: 11px;
+}
+
+.card {
+	margin-bottom: 16px;
+}
+
+html {
+	position: relative;
+	min-height: 100%;
+	user-select: none;
+}
+
+body {
+	margin-bottom: 40px; 
+}
+
+.logo-style {
+	height: 85vh;
+	max-height: 500px;
+}
+
+.company-style {
+	height: 5vh;
+	max-height: 30px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.intro_video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

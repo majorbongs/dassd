@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+		<Item>
+      <modelName>polbullet</modelName>
+      <colors>
+        <Item>
+          <indices>
+            <Item value="0" />
+            <Item value="62" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guvt plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="62" />
+      <sirenSettings value="11069" />
+    </Item>
+		<Item>
+      <modelName>polbullet2</modelName>
+      <colors>
+        <Item>
+          <indices>
+            <Item value="11" />
+            <Item value="118" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+					<indices>
+            <Item value="2" />
+            <Item value="15" />
+            <Item value="3" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="112" />
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="0" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="30" />
+            <Item value="46" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="126" />
+            <Item value="126" />
+            <Item value="0" />
+            <Item value="0" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="64" />
+            <Item value="9" />
+            <Item value="67" />
+            <Item value="0" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="50" />
+          </Item>
+					<Item>
+            <Name>Police guvt plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="62" />
+      <sirenSettings value="113" />
+    </Item>
+		<Item>
+      <modelName>sherbullet</modelName>
+      <colors>
+        <Item>
+          <indices>
+            <Item value="0" />
+            <Item value="50" />
+            <Item value="0" />
+            <Item value="0" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guvt plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="62" />
+      <sirenSettings value="111" />
+    </Item>
+		<Item>
+      <modelName>hwaybullet</modelName>
+      <colors>
+        <Item>
+          <indices>
+            <Item value="0" />
+            <Item value="105" />
+            <Item value="0" />
+            <Item value="0" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guvt plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="62" />
+      <sirenSettings value="112" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

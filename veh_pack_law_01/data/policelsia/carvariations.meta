@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+	<!-- Los Santos International Airport Police - Patrol fleet -->
+  <Item>
+      <modelName>policelsia</modelName>
+      <colors>
+				<Item>
+          <indices>
+            <Item value="134" />
+            <Item value="134" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="88" />
+    </Item>
+	<Item>
+      <modelName>policelsia1b</modelName>
+      <colors>
+				<Item>
+          <indices>
+            <Item value="134" />
+            <Item value="134" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="88" />
+    </Item>
+	<Item>
+      <modelName>trafficlsia</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="89"/>
+    </Item>
+	<Item>
+      <modelName>policelsia5</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="87"/>
+    </Item>
+	<Item>
+      <modelName>policelsia6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="23"/>
+      <sirenSettings value="87"/>
+    </Item>
+	</variationData>
+</CVehicleModelInfoVariation>

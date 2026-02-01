@@ -1,0 +1,8 @@
+Citizen.CreateThread(function()
+	AddTextEntry('WT_SG_WINCHESTER', 'Lever Rifle')
+	AddTextEntry('WT_SNIP_SPRINGFIELD', 'Classic Bolt Rifle')
+	AddTextEntry('WT_SNIP_BOLTRIFLE', 'Bolt Rifle')
+	AddTextEntry('WT_RIFLE_SPC', 'Militia Rifle')
+	AddTextEntry('WT_SMG_CLM', 'Classic Micro SMG')
+	AddTextEntry('WT_GNADE_FLSH', 'Flashbang')
+end)

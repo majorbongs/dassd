@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CAmbientModelSets>
+  <ModelSets>
+    <Item type="CAmbientModelSet">
+      <Name>GRUPPE_CAR</Name>
+      <Models>
+        <Item>
+          <Name>bankbuf</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+  </ModelSets>
+</CAmbientModelSets>

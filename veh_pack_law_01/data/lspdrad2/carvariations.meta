@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+	<Item>
+      <modelName>lspdrad</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134 
+            0
+            156
+          </indices>
+          <liveries />
+        </Item>		  			
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="142" />
+    </Item>
+	<Item>
+      <modelName>lspdrad2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134 
+            0
+            156
+          </indices>
+          <liveries />
+        </Item>		  			
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="143" />
+    </Item>
+	</variationData>
+</CVehicleModelInfoVariation>

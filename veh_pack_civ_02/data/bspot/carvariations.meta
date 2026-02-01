@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+    <variationData>
+        <Item>
+            <modelName>bspot</modelName>
+            <colors>
+                <Item>
+                    <indices content="char_array">
+                        2
+                        12
+                        0
+                        2
+                        0
+                        0
+                    </indices>
+                    <liveries/>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        35
+                        12
+                        36
+                        147
+                        0
+                        0
+                    </indices>
+                    <liveries/>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        88
+                        12
+                        89
+                        112
+                        0
+                        0
+                    </indices>
+                    <liveries/>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        107
+                        147
+                        0
+                        147
+                        0
+                        0
+                    </indices>
+                    <liveries/>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        112
+                        12
+                        0
+                        147
+                        0
+                        0
+                    </indices>
+                    <liveries/>
+                </Item>
+            </colors>
+            <kits>
+                <Item>600_bspot_modkit</Item>
+            </kits>
+            <windowsWithExposedEdges/>
+            <plateProbabilities>
+                <Probabilities>
+                    <Item>
+                        <Name>standard white</Name>
+                        <Value value="80"/>
+                    </Item>
+                    <Item>
+                        <Name>white plate 2</Name>
+                        <Value value="20"/>
+                    </Item>
+                </Probabilities>
+            </plateProbabilities>
+            <lightSettings value="1"/>
+            <sirenSettings value="182"/>
+        </Item>
+    </variationData>
+</CVehicleModelInfoVariation>

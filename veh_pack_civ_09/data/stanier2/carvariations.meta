@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>stanier2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="10" />
+            <Item value="156" />
+            <Item value="22" />
+            <Item value="103" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="1" />
+            <Item value="1" />
+            <Item value="7" />
+            <Item value="156" />
+            <Item value="22" />
+            <Item value="22" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="2" />
+            <Item value="2" />
+            <Item value="5" />
+            <Item value="156" />
+            <Item value="66" />
+            <Item value="103" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="3" />
+            <Item value="3" />
+            <Item value="24" />
+            <Item value="156" />
+            <Item value="66" />
+            <Item value="66" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="6" />
+            <Item value="6" />
+            <Item value="111" />
+            <Item value="156" />
+            <Item value="14" />
+            <Item value="103" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="111" />
+            <Item value="111" />
+            <Item value="0" />
+            <Item value="156" />
+            <Item value="14" />
+            <Item value="14" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="4" />
+            <Item value="4" />
+            <Item value="111" />
+            <Item value="156" />
+            <Item value="93" />
+            <Item value="103" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="69" />
+            <Item value="69" />
+            <Item value="67" />
+            <Item value="156" />
+            <Item value="93" />
+            <Item value="93" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="34" />
+            <Item value="34" />
+            <Item value="33" />
+            <Item value="156" />
+            <Item value="17" />
+            <Item value="103" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="31" />
+            <Item value="31" />
+            <Item value="32" />
+            <Item value="156" />
+            <Item value="93" />
+            <Item value="103" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="67" />
+            <Item value="67" />
+            <Item value="111" />
+            <Item value="156" />
+            <Item value="93" />
+            <Item value="93" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="37" />
+            <Item value="37" />
+            <Item value="38" />
+            <Item value="156" />
+            <Item value="22" />
+            <Item value="22" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="93" />
+            <Item value="93" />
+            <Item value="107" />
+            <Item value="156" />
+            <Item value="66" />
+            <Item value="66" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>672_stanier2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

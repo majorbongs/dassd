@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>swindler</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            34
+            34
+            9
+            156
+			110
+			1
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            90
+            90
+            90
+            156
+			110
+			1
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5
+            5
+            5
+            156
+			110
+			1
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            45
+            45
+            9
+            156
+			110
+			112
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            16
+            156
+			33
+			99
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+			33
+			1
+          </indices>
+          <liveries/>
+        </Item>
+		        <Item>
+          <indices content="char_array">
+            50
+            50
+            9
+            156
+			110
+			1
+          </indices>
+          <liveries/>
+        </Item>
+		        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            156
+			33
+			1
+          </indices>
+          <liveries/>
+        </Item>
+		        <Item>
+          <indices content="char_array">
+            109
+            109
+            109
+            156
+			112
+			1
+          </indices>
+          <liveries/>
+        </Item>
+		        <Item>
+          <indices content="char_array">
+            43
+            43
+            9
+            156
+			110
+			1
+          </indices>
+          <liveries/>
+        </Item>
+		        <Item>
+          <indices content="char_array">
+            37
+            37
+            9
+            156
+			112
+			1
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

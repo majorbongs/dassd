@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+		<Item>
+      <modelName>police6a</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            11
+            156
+            3
+            3
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            134
+            156
+            99
+            99
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            157
+            156
+            153
+            153
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            134
+            0
+            99
+            99
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            34
+            45
+            0
+            3
+            3
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            0
+            153
+            153
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+	  <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="160"/>
+      <sirenSettings value="232"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

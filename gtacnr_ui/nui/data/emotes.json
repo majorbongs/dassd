@@ -1,0 +1,322 @@
+{
+    "up": {
+        "file": "up.png",
+        "tier": 0
+    },
+    "dn": {
+        "file": "dn.png",
+        "tier": 0
+    },
+    "ragebait_cat": {
+        "file": "ragebait_cat.png",
+        "tier": 1
+    },
+    "shut": {
+        "file": "shut.webp",
+        "tier": 1
+    },
+    "snitch": {
+        "file": "snitch.png",
+        "tier": 1
+    },
+    "sigma": {
+        "file": "sigma.png",
+        "tier": 1
+    },
+    "skibidi": {
+        "file": "skibidi.gif",
+        "tier": 1
+    },
+    "the_voices": {
+        "file": "the_voices.png",
+        "tier": 0
+    },
+    "take_my_money": {
+        "file": "take_my_money.png",
+        "tier": 0
+    },
+    "those_who_know": {
+        "file": "those_who_know.webp",
+        "tier": 0
+    },
+    "angry_bird": {
+        "file": "fat_angry_bird.gif",
+        "tier": 0
+    },
+    "broken": {
+        "file": "broken.webp",
+        "tier": 0
+    },
+    "booty_think": {
+        "file": "booty_think.webp",
+        "tier": 0
+    },
+    "kek": {
+        "file": "kek.webp",
+        "tier": 0
+    },
+    "kek2": {
+        "file": "kek.png",
+        "tier": 0
+    },
+    "kekleo": {
+        "file": "kekleo.webp",
+        "tier": 1
+    },
+    "thonk": {
+        "file": "thonk.webp",
+        "tier": 0
+    },
+    "cringe": {
+        "file": "cringe.gif",
+        "tier": 0
+    },
+    "gasp": {
+        "file": "gasp.png",
+        "tier": 0
+    },
+    "lmfao": {
+        "file": "lmfao.gif",
+        "tier": 0
+    },
+    "ok_lmao": {
+        "file": "ok_lmao.png",
+        "tier": 0
+    },
+    "crying": {
+        "file": "crying.gif",
+        "tier": 0
+    },
+    "delete": {
+        "file": "delete.png",
+        "tier": 0
+    },
+    "sweat": {
+        "file": "sweat.png",
+        "tier": 0
+    },
+    "typing": {
+        "file": "typing.gif",
+        "tier": 0
+    },
+    "nerd": {
+        "file": "nerd.png",
+        "tier": 0
+    },
+    "nerd2": {
+        "file": "nerd.gif",
+        "tier": 0
+    },
+    "great": {
+        "file": "great.gif",
+        "tier": 0
+    },
+    "gentleman": {
+        "file": "gentleman.gif",
+        "tier": 1
+    },
+    "gigagentleman": {
+        "file": "gigagentleman.gif",
+        "tier": 1
+    },
+    "gigachad": {
+        "file": "gigachad.png",
+        "tier": 0
+    },
+    "disappointed": {
+        "file": "disappointed.gif",
+        "tier": 0
+    },
+    "smh": {
+        "file": "smh.png",
+        "tier": 0
+    },
+    "bruh": {
+        "file": "bruh.png",
+        "tier": 0
+    },
+    "hehe": {
+        "file": "hehe.png",
+        "tier": 0
+    },
+    "maxwell": {
+        "file": "maxwell.gif",
+        "tier": 1
+    },
+    "scholar": {
+        "file": "scholar.png",
+        "tier": 0
+    },
+    "umm": {
+        "file": "umm.png",
+        "tier": 0
+    },
+    "jerry": {
+        "file": "jerry.png",
+        "tier": 0
+    },
+    "packwatch": {
+        "file": "packwatch.gif",
+        "tier": 1
+    },
+    "pepe": {
+        "file": "pepe.png",
+        "tier": 0
+    },
+    "pepe_police": {
+        "file": "pepe_police.webp",
+        "tier": 0
+    },
+    "pog": {
+        "file": "pog.png",
+        "tier": 0
+    },
+    "banned": {
+        "file": "banned.gif",
+        "tier": 0
+    },
+    "stonks": {
+        "file": "stonks.png",
+        "tier": 0
+    },
+    "wtf": {
+        "file": "wtf.png",
+        "tier": 0
+    },
+    "winkwonk": {
+        "file": "winkwonk.gif",
+        "tier": 0
+    },
+    "who_asked": {
+        "file": "who_asked.png",
+        "tier": 0
+    },
+    "bozo": {
+        "file": "bozo.png",
+        "tier": 0
+    },
+    "sadclown": {
+        "file": "sadclown.png",
+        "tier": 0
+    },
+    "nocap": {
+        "file": "nocap.png",
+        "tier": 0
+    },
+    "stfu": {
+        "file": "stfu.gif",
+        "tier": 0
+    },
+    "simp": {
+        "file": "simp.png",
+        "tier": 0
+    },
+    "batman": {
+        "file": "batman.png",
+        "tier": 0
+    },
+    "buzz": {
+        "file": "buzz.png",
+        "tier": 0
+    },
+    "duo": {
+        "file": "duo.png",
+        "tier": 0
+    },
+    "covid": {
+        "file": "covid.png",
+        "tier": 0
+    },
+    "coffin": {
+        "file": "coffindance.gif",
+        "tier": 0
+    },
+    "fatdance": {
+        "file": "fatdance.gif",
+        "tier": 0
+    },
+    "peace_out": {
+        "file": "peace_out.gif",
+        "tier": 1
+    },
+    "shocked": {
+        "file": "shocked.png",
+        "tier": 0
+    },
+    "caught_in_4k": {
+        "file": "caughtin4k.gif",
+        "tier": 1
+    },
+    "moderator": {
+        "file": "moderator.png",
+        "tier": 0
+    },
+    "pocket_healer": {
+        "file": "sage.gif",
+        "tier": 1
+    },
+    "touch_grass": {
+        "file": "touch_grass.gif",
+        "tier": 1
+    },
+    "dababy": {
+        "file": "dababy.gif",
+        "tier": 1
+    },
+    "haram": {
+        "file": "haram.png",
+        "tier": 0
+    },
+    "walter": {
+        "file": "walter.gif",
+        "tier": 1
+    },
+    "jesse": {
+        "file": "jesse.gif",
+        "tier": 1
+    },
+    "saul": {
+        "file": "saul.gif",
+        "tier": 1
+    },
+    "gus_fring": {
+        "file": "gus_fring.png",
+        "tier": 0
+    },
+    "castillo": {
+        "file": "castillo.gif",
+        "tier": 1
+    },
+    "john_xina": {
+        "file": "john_xina.png",
+        "tier": 0
+    },
+    "the_rock": {
+        "file": "the_rock.gif",
+        "tier": 1
+    },
+    "trump": {
+        "file": "trump.gif",
+        "tier": 1
+    },
+    "biden": {
+        "file": "biden.png",
+        "tier": 0
+    },
+    "putin": {
+        "file": "putin.png",
+        "tier": 0
+    },
+    "xi": {
+        "file": "xi.png",
+        "tier": 0
+    },
+    "elon": {
+        "file": "elon.png",
+        "tier": 0
+    },
+    "jeff": {
+        "file": "jeff.png",
+        "tier": 0
+    }
+}

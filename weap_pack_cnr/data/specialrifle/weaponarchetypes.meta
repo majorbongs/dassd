@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <Item>
+      <modelName>W_AR_SPECIALRIFLE</modelName>
+      <txdName>W_AR_SPECIALRIFLE</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="500" />
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

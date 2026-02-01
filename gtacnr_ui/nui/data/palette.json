@@ -1,0 +1,117 @@
+{
+    "white": {
+        "code": "ffffff"
+    },
+    "gray": {
+        "code": "9b9b9b",
+        "tier": 1
+    },
+    "gray2": {
+        "code": "838383",
+        "tier": 1
+    },
+    "gray3": {
+        "code": "656565",
+        "tier": 2
+    },
+    "darkgray": {
+        "code": "373737",
+        "tier": 2
+    },
+    "red": {
+        "code": "db3538"
+    },
+    "orange": {
+        "code": "f98859",
+        "tier": 1
+    },
+    "brown": {
+        "code": "bf7339",
+        "tier": 1
+    },
+    "maroon":{
+        "code": "800000",
+        "tier": 2
+    },
+    "darkred": {
+        "code": "93050a",
+        "tier": 2
+    },
+
+    "yellow": {
+        "code": "eacc54"
+    },
+    "tan": {
+        "code": "e3c681",
+        "tier": 1
+    },
+    "gold": {
+        "code": "d09c1f",
+        "tier": 1
+    },
+    "granola": {
+        "code": "cc9b27",
+        "tier": 2
+    },
+    "bronze": {
+        "code": "7d5800",
+        "tier": 2
+    },
+    "green": {
+        "code": "71cf72"
+    },
+    "lime": {
+        "code": "b2db61",
+        "tier": 1
+    },
+    "olive": {
+        "code": "808000",
+        "tier": 1
+    },
+    "naturegreen": {
+        "code": "00b51e",
+        "tier": 2
+    },
+    "darkgreen": {
+        "code": "006b01",
+        "tier": 2
+    },
+    "blue": {
+        "code": "6bb3e4"
+    },
+    "cyan": {
+        "code": "00ffff",
+        "tier": 1
+    },
+    "aquamarine": {
+        "code": "85ffd4",
+        "tier": 1
+    },
+    "bluegreen": {
+        "code": "0d98ba",
+        "tier": 2
+    },
+    "darkblue": {
+        "code": "3c76bd",
+        "tier": 2
+    },
+    "purple": {
+        "code": "8c59e1"
+    },
+    "violet": {
+        "code": "c479df",
+        "tier": 1
+    },
+    "pink": {
+        "code": "ffa6f2",
+        "tier": 1
+    },
+    "magenta":{
+        "code": "e349e3",
+        "tier": 2
+    },
+    "indigo": {
+        "code": "4730b8",
+        "tier": 2
+    }
+}

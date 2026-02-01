@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+  	<Item>
+      <modelName>dubstavip</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="75"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="25"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="6381"/>
+    </Item>
+	<Item>
+      <modelName>oraclevip</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="75"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="25"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="35"/>
+      <sirenSettings value="6381"/>
+    </Item>
+	<Item>
+      <modelName>staffrebla</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            12
+            0
+            156 
+			4
+			0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="150" />
+      <sirenSettings value="6381" />
+    </Item>
+	<Item>
+      <modelName>cogvip</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            120
+            0
+            156 
+			48
+			156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="27" />
+      <sirenSettings value="6381" />
+    </Item>
+    <Item>
+      <modelName>cogvip2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            120
+            0
+            156 
+			48
+			156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="27" />
+      <sirenSettings value="6381" />
+    </Item>
+    <Item>
+      <modelName>schaftervip</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            120
+            0
+            156 
+			48
+			156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="45" />
+      <sirenSettings value="6381" />
+    </Item>
+    <Item>
+      <modelName>schaftervip2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            120
+            0
+            156 
+			48
+			156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="45" />
+      <sirenSettings value="6381" />
+    </Item>
+    <Item>
+      <modelName>ballervip</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            120
+            0
+            7
+			8
+			156
+          </indices>
+          <liveries />
+        </Item>     
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="57" />
+      <sirenSettings value="6381" />
+    </Item>
+    <Item>
+      <modelName>ballervip2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            120
+            0
+            7
+			8
+			156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="57" />
+      <sirenSettings value="6381" />
+    </Item>
+	<Item>
+      <modelName>xlsvip</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            120 
+            0 
+            156 
+          </indices>
+          <liveries />
+        </Item>     
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="6381" />
+    </Item>      
+ </variationData>
+</CVehicleModelInfoVariation>

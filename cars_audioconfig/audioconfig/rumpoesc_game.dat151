@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat151>
+ <Version value="6978435" />
+ <Items>
+  <Item type="Vehicle" ntOffset="372560">
+   <Name>rumpoesc</Name>
+   <Unk00 value="0x91005A28" />
+   <Engine>hash_3062681F</Engine>
+   <EngineGranular>hash_D1956D0E</EngineGranular>
+   <Horns>hash_029059CA</Horns>
+   <DoorOpen>hash_EE43EB05</DoorOpen>
+   <DoorClose>hash_8398E44E</DoorClose>
+   <TrunkOpen>hash_EE43EB05</TrunkOpen>
+   <TrunkClose>hash_8398E44E</TrunkClose>
+   <Unk08>null_sound</Unk08>
+   <Unk09 value="0.5" />
+   <SuspensionUp>hash_7CEDC837</SuspensionUp>
+   <SuspensionDown>hash_4AEF38F3</SuspensionDown>
+   <Unk12 value="0.4" />
+   <Unk13 value="1" />
+   <Unk14>hash_00C2FB47</Unk14>
+   <Unk15 value="0" />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <ScannerParams>hash_6EEE584A</ScannerParams>
+   <JumpLandIntact>hash_A5EB71C0</JumpLandIntact>
+   <JumpLandLoose>hash_1AF1FCAC</JumpLandLoose>
+   <Unk21 value="31" />
+   <Unk22 value="36" />
+   <RadioFlags value="0x04010001" />
+   <IndicatorOn>hash_D4314DE2</IndicatorOn>
+   <IndicatorOff>hash_A683DC21</IndicatorOff>
+   <Handbrake>hash_97DEEC51</Handbrake>
+   <Unk27 value="0x00010001" />
+   <Unk28>hash_674E1F4D</Unk28>
+   <Unk29 value="0x55FC0070" />
+   <Unk30>hash_795E90E6</Unk30>
+   <Unk31>hash_795E90E6</Unk31>
+   <Unk32>hash_2FF627AC</Unk32>
+   <StartupSequence>null_sound</StartupSequence>
+   <Unk34>null_sound</Unk34>
+   <Unk35>hash_F52E6D86</Unk35>
+   <Unk36>hash_F52E6D86</Unk36>
+   <Unk37 value="6" />
+   <Unk38 value="3" />
+   <Unk39 />
+   <Unk40 value="0" />
+   <Sirens />
+   <Unk42 value="0" />
+   <Unk43 value="0" />
+   <Unk44 value="0" />
+   <Unk45>hash_0C3F6AD5</Unk45>
+   <Unk46>hash_359E05CB</Unk46>
+   <Unk47 />
+   <TurretSounds />
+   <Unk49 value="5" />
+   <Unk50 />
+   <Unk51 />
+   <Unk52 value="0" />
+   <ElectricEngine />
+   <Unk54 value="0" />
+   <ReverseWarning>null_sound</ReverseWarning>
+   <Unk56 value="3" />
+   <VehicleMaster>null_sound</VehicleMaster>
+   <ShutdownBeep>null_sound</ShutdownBeep>
+   <Unk59 value="1" />
+   <Unk60 value="0" />
+   <Unk61 value="1" />
+   <Unk62 value="0" />
+   <Unk63>null_sound</Unk63>
+   <Unk64 value="600" />
+   <Unk65 value="0" />
+   <Unk66 value="0" />
+   <Unk67 />
+   <Unk68>null_sound</Unk68>
+   <Unk69>hash_7C9B8D8C</Unk69>
+   <Unk70 value="0" />
+   <Unk71>null_sound</Unk71>
+   <Unk72>null_sound</Unk72>
+  </Item>
+ </Items>
+</Dat151>

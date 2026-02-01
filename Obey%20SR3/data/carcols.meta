@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Lights />
+  <Kits>
+    <Item>
+      <kitName>48845_sr3_modkit</kitName>
+      <id value="48845" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>sr3_fend_1</modelName>
+          <modShopLabel>sr3_fend_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+        </Item>
+	  <Item>
+          <modelName>sr3_fend_2</modelName>
+          <modShopLabel>sr3_fend_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+        </Item>
+	  <Item>
+          <modelName>sr3_fend_3</modelName>
+          <modShopLabel>sr3_fend_3</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_h</Item>
+		      </turnOffBones> 
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+        </Item>
+	  <Item>
+          <modelName>sr3_fend_4</modelName>
+          <modShopLabel>sr3_fend_4</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_h</Item>
+		      </turnOffBones> 
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+        </Item>
+	  <Item>
+          <modelName>sr3_fend_5</modelName>
+          <modShopLabel>sr3_fend_5</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_h</Item>
+		      </turnOffBones> 
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+        </Item>
+	  <Item>
+          <modelName>sr3_fend_6</modelName>
+          <modShopLabel>sr3_fend_6</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_h</Item>
+		      </turnOffBones> 
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+        </Item>
+	  <Item>
+          <modelName>sr3_bon_1</modelName>
+          <modShopLabel>sr3_bon_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_n</Item>
+		      </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_bon_2</modelName>
+          <modShopLabel>sr3_bon_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_n</Item>
+		      </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_bon_3</modelName>
+          <modShopLabel>sr3_bon_3</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_n</Item>
+		      </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_bon_4</modelName>
+          <modShopLabel>sr3_bon_4</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_n</Item>
+		      </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_bon_5</modelName>
+          <modShopLabel>sr3_bon_5</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_n</Item>
+		      </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_bon_6</modelName>
+          <modShopLabel>sr3_bon_6</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_n</Item>
+		      </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_roof_1</modelName>
+          <modShopLabel>sr3_roof_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_l</Item>
+		      </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_fsplit_1</modelName>
+          <modShopLabel>sr3_fsplit_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_fsplit_2</modelName>
+          <modShopLabel>sr3_fsplit_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_fsplit_3</modelName>
+          <modShopLabel>sr3_fsplit_3</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_fsplit_4</modelName>
+          <modShopLabel>sr3_fsplit_4</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_fsplit_5</modelName>
+          <modShopLabel>sr3_fsplit_5</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_fsplit_6</modelName>
+          <modShopLabel>sr3_fsplit_6</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_diff_1</modelName>
+          <modShopLabel>sr3_diff_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_p</Item>
+		      </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_diff_2</modelName>
+          <modShopLabel>sr3_diff_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_p</Item>
+		      </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_diff_3</modelName>
+          <modShopLabel>sr3_diff_3</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_p</Item>
+		      </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_diff_4</modelName>
+          <modShopLabel>sr3_diff_4</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_p</Item>
+		      </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_diff_5</modelName>
+          <modShopLabel>sr3_diff_5</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_p</Item>
+		      </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_diff_6</modelName>
+          <modShopLabel>sr3_diff_6</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_p</Item>
+		      </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_spoil_1</modelName>
+          <modShopLabel>sr3_spoil_1</modShopLabel>
+          <linkedModels/>
+		      <turnOffBones>
+         	<Item>misc_o</Item>
+		      </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>sr3_spoil_2</modelName>
+          <modShopLabel>sr3_spoil_2</modShopLabel>
+          <linkedModels/>
+		      <turnOffBones>
+         	<Item>misc_o</Item>
+		      </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>sr3_spoil_3</modelName>
+          <modShopLabel>sr3_spoil_3</modShopLabel>
+          <linkedModels/>
+		      <turnOffBones>
+         	<Item>misc_o</Item>
+		      </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>sr3_spoil_4</modelName>
+          <modShopLabel>sr3_spoil_4</modShopLabel>
+          <linkedModels/>
+		      <turnOffBones>
+         	<Item>misc_o</Item>
+		      </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>sr3_spoil_5</modelName>
+          <modShopLabel>sr3_spoil_5</modShopLabel>
+          <linkedModels/>
+		      <turnOffBones>
+         	<Item>misc_o</Item>
+		      </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>sr3_spoil_6</modelName>
+          <modShopLabel>sr3_spoil_6</modShopLabel>
+          <linkedModels/>
+		      <turnOffBones>
+         	<Item>misc_o</Item>
+		      </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>sr3_rpoil_1</modelName>
+          <modShopLabel>sr3_rpoil_1</modShopLabel>
+          <linkedModels/>
+		      <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>sr3_rpoil_2</modelName>
+          <modShopLabel>sr3_rpoil_2</modShopLabel>
+          <linkedModels/>
+		      <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>sr3_exh_1</modelName>
+          <modShopLabel>sr3_exh_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_k</Item>
+		      </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_exh_2</modelName>
+          <modShopLabel>sr3_exh_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_k</Item>
+		      </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_exh_3</modelName>
+          <modShopLabel>sr3_exh_3</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_k</Item>
+		      </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_exh_4</modelName>
+          <modShopLabel>sr3_exh_4</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_k</Item>
+		      </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_cage_1</modelName>
+          <modShopLabel>sr3_cage_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_cage_2</modelName>
+          <modShopLabel>sr3_cage_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_cage_3</modelName>
+          <modShopLabel>sr3_cage_3</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_r</Item>
+		      </turnOffBones> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_cage_4</modelName>
+          <modShopLabel>sr3_cage_4</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_r</Item>
+		      </turnOffBones> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_skirt_1</modelName>
+          <modShopLabel>sr3_skirt_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      <Item>
+          <modelName>sr3_skirt_2</modelName>
+          <modShopLabel>sr3_skirt_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>	
+        <Item>
+          <modelName>sr3_skirt_3</modelName>
+          <modShopLabel>sr3_skirt_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>	
+        <Item>
+          <modelName>sr3_skirt_4</modelName>
+          <modShopLabel>sr3_skirt_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>	
+        <Item>
+          <modelName>sr3_skirt_5</modelName>
+          <modShopLabel>sr3_skirt_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>	
+        <Item>
+          <modelName>sr3_skirt_6</modelName>
+          <modShopLabel>sr3_skirt_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>	
+        <Item>
+          <modelName>sr3_louv_1</modelName>
+          <modShopLabel>sr3_louv_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>	
+        <Item>
+          <modelName>sr3_louv_2</modelName>
+          <modShopLabel>sr3_louv_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>	
+        <Item>
+          <modelName>sr3_bootent_1</modelName>
+          <modShopLabel>sr3_bootent_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+     </Item>	
+        <Item>
+          <modelName>sr3_bootent_2</modelName>
+          <modShopLabel>sr3_bootent_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+     </Item>	
+        <Item>
+          <modelName>sr3_bootent_3</modelName>
+          <modShopLabel>sr3_bootent_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+     </Item>	
+        <Item>
+          <modelName>sr3_bootent_4</modelName>
+          <modShopLabel>sr3_bootent_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+     </Item>
+	  <Item>
+          <modelName>sr3_seats_1</modelName>
+          <modShopLabel>sr3_seats_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_i</Item>
+		      </turnOffBones> 
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+      </Item>
+	  <Item>
+          <modelName>sr3_seats_2</modelName>
+          <modShopLabel>sr3_seats_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_i</Item>
+		      </turnOffBones> 
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_seats_3</modelName>
+          <modShopLabel>sr3_seats_3</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_i</Item>
+		      </turnOffBones> 
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_seats_4</modelName>
+          <modShopLabel>sr3_seats_4</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_i</Item>
+		      </turnOffBones> 
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_swheel_1</modelName>
+          <modShopLabel>sr3_swheel_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+     </Item>
+	  <Item>
+          <modelName>sr3_swheel_2</modelName>
+          <modShopLabel>sr3_swheel_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+     </Item>	
+        <Item>
+          <modelName>sr3_boot_1</modelName>
+          <modShopLabel>sr3_boot_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+         	<Item>misc_m</Item>
+		      </turnOffBones> 
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>	
+        <Item>
+          <modelName>sr3_plate_1</modelName>
+          <modShopLabel>sr3_plate_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+         	<Item>misc_q</Item>
+		      </turnOffBones> 
+          <type>VMT_PLTVANITY</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+     </Item>	
+        <Item>
+          <modelName>sr3_dmirr_1</modelName>
+          <modShopLabel>sr3_dmirr_1</modShopLabel>
+          <linkedModels>
+          <Item>sr3_pmirr_1</Item>
+          </linkedModels>        
+          <turnOffBones>
+         	<Item>misc_a</Item>
+          <Item>misc_j</Item>
+		      </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="false" />
+     </Item>	
+        <Item>
+          <modelName>sr3_dmirr_2</modelName>
+          <modShopLabel>sr3_dmirr_2</modShopLabel>
+          <linkedModels>
+          <Item>sr3_pmirr_2</Item>
+          </linkedModels>        
+          <turnOffBones>
+         	<Item>misc_a</Item>
+          <Item>misc_j</Item>
+		      </turnOffBones> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="false" />
+     </Item>	
+        <Item>
+          <modelName>sr3_ddef_1</modelName>
+          <modShopLabel>sr3_ddef_1</modShopLabel>
+          <linkedModels>
+          <Item>sr3_pdef_1</Item>
+          <Item>sr3_dpdef_1</Item>
+          <Item>sr3_ppdef_1</Item>
+          </linkedModels>        
+          <turnOffBones /> 
+          <type>VMT_CHASSIS2</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="false" />
+     </Item>	
+        <Item>
+          <modelName>sr3_ddef_2</modelName>
+          <modShopLabel>sr3_ddef_2</modShopLabel>
+          <linkedModels>
+          <Item>sr3_pdef_2</Item>
+          <Item>sr3_dpdef_2</Item>
+          <Item>sr3_ppdef_2</Item>
+          </linkedModels>        
+          <turnOffBones /> 
+          <type>VMT_CHASSIS2</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="false" />
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_1</modelName>
+          <modShopLabel>sr3_brace_1</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_2</modelName>
+          <modShopLabel>sr3_brace_2</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_3</modelName>
+          <modShopLabel>sr3_brace_3</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_4</modelName>
+          <modShopLabel>sr3_brace_4</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_5</modelName>
+          <modShopLabel>sr3_brace_5</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_6</modelName>
+          <modShopLabel>sr3_brace_6</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_7</modelName>
+          <modShopLabel>sr3_brace_7</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_8</modelName>
+          <modShopLabel>sr3_brace_8</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_9</modelName>
+          <modShopLabel>sr3_brace_9</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_10</modelName>
+          <modShopLabel>sr3_brace_10</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>
+	  <Item>
+          <modelName>sr3_brace_11</modelName>
+          <modShopLabel>sr3_brace_11</modShopLabel> 
+          <linkedModels/>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+     </Item>			
+      </visibleMods>
+      <linkMods>
+        <Item>
+          <modelName>sr3_pdef_1</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		    <Item>
+          <modelName>sr3_ppdef_1</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		    <Item>
+        <modelName>sr3_dpdef_1</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		    <Item>
+        <modelName>sr3_pdef_2</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		    <Item>
+          <modelName>sr3_ppdef_2</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		    <Item>
+        <modelName>sr3_dpdef_2</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		    <Item>
+        <modelName>sr3_pmirr_1</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		    <Item>
+        <modelName>sr3_pmirr_2</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>			
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+				<Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="30" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+      </statMods>
+      <slotNames />
+      <liveryNames>
+      </liveryNames>
+    </Item>
+  </Kits>
+   <Lights>
+
+   </Lights>
+</CVehicleModelInfoVarGlobal>

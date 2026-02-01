@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+	<Item>
+      <modelName>staffdeluxo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            18
+            8
+            6
+            0 
+	          19
+	          156
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1655_staffdeluxo_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="52143" />
+    </Item> 
+	</variationData>
+</CVehicleModelInfoVariation>

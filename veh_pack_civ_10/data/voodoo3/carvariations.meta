@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData> 
+		<Item>
+			<modelName>voodoo3</modelName>
+			<colors>
+				<Item> <!-- Black Steel -->
+					<indices content="char_array">
+            2
+            2
+            112
+            147
+            116
+            111
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Beechwood Brown -->
+					<indices content="char_array">
+            103
+            103
+            112
+            147
+            2
+            111
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Light Blue -->
+					<indices content="char_array">
+            74
+            74
+            112
+            147
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="true" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Bright Green -->
+					<indices content="char_array">
+            53
+            53
+            112
+            5
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+					</liveries>
+				</Item>
+				<Item> <!-- Sea Green -->
+					<indices content="char_array">
+            51
+            51
+            51
+            5
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Candy Red -->
+					<indices content="char_array">
+            35
+            35
+            35
+            5
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Black two-tone -->
+					<indices content="char_array">
+            2
+            147
+            2
+            147
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Cream \ Chocolate two-tone -->
+					<indices content="char_array">
+            107
+            96
+            112
+            147
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Cream \ Chocolate two-tone Alt. -->
+					<indices content="char_array">
+            96
+            107
+            112
+            147
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Cabernet Red \ Silver two-tone -->
+					<indices content="char_array">
+            34
+            4
+            112
+            5
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Light Blue \ Nautical Blue two-tone -->
+					<indices content="char_array">
+            74
+            62
+            112
+            147
+            2
+            5
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Police Blue \ White two-tone -->
+					<indices content="char_array">
+            127
+            112
+            112
+            112
+            127
+            111
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Police Blue \ Black two-tone -->
+					<indices content="char_array">
+            147
+            127
+            112
+            112
+            127
+            111
+					</indices>
+					<liveries />
+				</Item>
+				<Item> <!-- Black \ White two-tone -->
+					<indices content="char_array">
+            147
+            112
+            112
+            112
+            5
+            111
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item> <!-- Candy Red \ White two-tone -->
+					<indices content="char_array">
+            35
+            112
+            112
+            112
+            35
+            111
+					</indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>standard white</Name>
+						<Value value="80" />
+					</Item>
+					<Item>
+						<Name>white plate 2</Name>
+						<Value value="20" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="74" />
+			<sirenSettings value="0"/>
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

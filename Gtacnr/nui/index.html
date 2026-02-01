@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GTA CnR</title>
+		<link rel="stylesheet" href="styles/main.css">
+		<link rel="stylesheet" href="styles/charSelector.css">
+		<link rel="stylesheet" href="styles/inputDialog.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <!-- Character Selector -->
+        <div id="character-selection" class="row">
+            <div id="list-panel" class="col-4">
+                <!-- Automatically filled -->
+            </div>
+            <div id="info-panel" class="col-8">
+                <h1 id="info-title"></h1>
+                <span id="info-subtitle"></span>
+                <br/>
+                <div id="info-content">
+                </div>
+            </div>
+        </div>
+
+        <!-- Input Dialog -->
+        <div id="input-dialog" class="modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog" id="input-dialog-modal-dialog" role="document">
+                <div class="modal-content" id="input-dialog-modal-content">
+                    <div class="modal-header border-0">
+                        <h5 class="modal-title" id="input-dialog-header"></h5>
+                    </div>
+                    <div class="modal-body border-0">
+                        <p id="input-dialog-content"></p>
+                        <input id="input-dialog-input" type="text" class="form-control">
+                    </div>
+                    <div class="modal-footer border-0">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal" id="input-dialog-cancel"></button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" id="input-dialog-submit"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Flash -->
+        <div id="flashBang">
+        </div>
+        
+        <!-- Scripts -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        <script src="scripts/verificationCookie.js"></script>
+        <script src="scripts/charSelector.js"></script>
+        <script src="scripts/inputDialog.js"></script>
+        <script src="scripts/flashBang.js"></script>
+        <script src="scripts/clipboard.js"></script>
+    </body>
+</html>

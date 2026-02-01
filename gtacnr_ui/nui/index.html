@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+
+        <title>GTA CnR UI</title>
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <link rel="stylesheet" href="css/chat.css">
+        <link rel="stylesheet" href="css/hud.css">
+        <link rel="stylesheet" href="css/scoreboard.css">
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+        <!--
+        <script type="module" defer src="js/dist/chat.js"></script>
+        <script type="module" defer src="js/dist/hud.js"></script>
+        <script defer src="js/dist/scoreboard.js"></script>
+        -->
+
+        <script defer src="js/dist/bundle.js"></script>
+
+        <script type="module" defer>
+            import { polyfillCountryFlagEmojis } from "https://cdn.skypack.dev/country-flag-emoji-polyfill";
+            polyfillCountryFlagEmojis();
+        </script>
+    </head>
+    <body>
+        <!-- HUD -->
+        <div id="gamertags"></div>
+        <div id="drawtext-wrapper">
+            <div id='drawtext'></div>
+        </div>
+        <div id="notifications"></div>
+        <div id="alert"></div>
+
+        <!-- CHAT -->      
+        <div id="chat-box" class="chat-box-left">
+            <div id="chat-content">
+            </div>
+        </div>
+
+        <div id="chat-input-container" class="chat-input-left">
+            <input type="text" id="chat-input" value="">
+            </input>
+            <div id="button-container">
+                <button id="color-button" class="chat-button" title="Color">
+                    <img class="chat-button-img" src="img/palette.png" />
+                </button>
+
+                <button id="emoji-button" class="chat-button" title="Emoji">
+                    <img class="chat-button-img" src="img/emoji.png" />
+                </button>
+
+                <button id="gif-button" class="chat-button" title="GIF">
+                    <img id="gif-button-img" class="chat-button-img" src="img/gif.png" />
+                </button>
+            </div>
+        </div>
+
+        <div id="suggestions-container" class="suggestions-left">
+        </div>
+
+        <div id="panel-container">
+            <div id="color-panel" class="panel panel-left">
+                <div id="color-div">
+                </div>
+            </div>
+
+            <div id="emoji-panel" class="panel panel-left">
+                <div id="emoji-div">
+                    <div class="panel-heading">EMOJIS</div>
+                    <div id="emoji-container"></div>
+
+                    <div class="panel-heading">STICKERS</div>
+                    <div id="emote-container"></div>
+                </div>
+            </div>
+
+            <div id="gif-panel" class="panel panel-left">
+                <div id="gif-panel-layout">
+                    <input id="gif-search-input" type="text" value="" placeholder="Search Tenor">
+                    </input>
+                    <div id="gif-div">
+                        <div id="gif-col-l">
+                        </div>
+                        <div id="gif-col-r">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="reactions-panel" class="panel">
+                <div id="reactions-div">
+                    <div class="panel-heading">REACTIONS</div>
+                    <div id="reactions-container"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SCOREBOARD (NEW) -->
+		<div id="scoreboard-background"></div>
+		<div id="scoreboard-wrapper" style="display: none;">
+            <div id="logo">
+                <div>
+                    Cops and Robbers V
+                </div>
+            </div>
+			 <div id="scoreboard-tablewrap">
+					<table style="width:100%;" id="scoreboard">
+						<thead>
+							<tr>
+								<th>ID</th>
+								<th>Username</th>
+								<th>Job</th>
+								<th>XP</th>
+								<th>Level</th>
+								<th>Ping</th>
+							</tr>
+						</thead>
+						<tbody>
+						</tbody>
+					</table>
+				</div>
+			</div>
+        <div id='profile-menu-background' style="display: none;"></div>
+        <div id='profile-menu' style="display: none;">
+            <div id="context-button"><span>…</span></div><br>
+            <div id="profile-img"><span>A</span></div>
+            <div id="motto"><span></span></div>
+            <div id="level"><span></span></div>
+            <div id="roles">
+                <div class="role"><span>👁️</span><span>Manager</span></div>
+            </div>
+        </div>
+        <div id='context-menu-background'></div>
+		<div id='context-menu'></div>
+
+        <!-- SCOREBOARD (OLD) -->
+        <div id="legacy_scoreboard_wrapper" style="display: none;">
+            <div id="legacy_scoreboard_logo" class="flex-column">
+                <div class="py-5">
+                    <span class="cops">Cops</span> and <span class="robbers">Robbers</span>
+                </div>
+            </div>
+            
+            <div id="legacy_scoreboard_header" class="flex-column">
+                <div class="row px-4 py-2">
+                    <div class="col-1">ID</div>
+                    <div class="col-4">Username</div>
+                    <div class="col-3">Job</div>
+                    <div class="col-2">XP</div>
+                    <div class="col-1">Level</div>
+                    <div class="col-1">Ping</div>
+                </div>
+            </div>
+
+            <div id="legacy_scoreboard" class="flex-column flex-grow-1">
+
+            </div>
+            
+            <!-- <div id="legacy_scoreboard_footer">
+                <div class="px-4 py-2 tooltip">
+                    <span id="player_count"></span>
+                    <div class="">
+                        test
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </body>
+</html>

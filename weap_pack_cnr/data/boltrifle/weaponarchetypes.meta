@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+    <InitDatas>
+        <Item>
+            <modelName>W_SR_BOLTRIFLE</modelName>
+            <txdName>W_SR_BOLTRIFLE</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="500" />
+        </Item>
+        <Item>
+            <modelName>W_SR_BOLTRIFLE_BLACK</modelName>
+            <txdName>W_SR_BOLTRIFLE_BLACK</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="500" />
+        </Item>
+    </InitDatas>
+</CWeaponModelInfo__InitDataList>

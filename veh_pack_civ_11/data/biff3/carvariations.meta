@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>Biff3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="132" />
+            <Item value="58" />
+            <Item value="132" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="48" />
+            <Item value="58" />
+            <Item value="48" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="85" />
+            <Item value="58" />
+            <Item value="85" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="21" />
+            <Item value="59" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="132" />
+            <Item value="59" />
+            <Item value="132" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="30" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="70" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="14" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

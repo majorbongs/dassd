@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+    <Item>      
+      <kitName>667_gbdominatorgsx_modkit</kitName>
+      <id value="667" />          
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>domgsx_spl1</modelName>
+          <modShopLabel>MNU_WING6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_spl2</modelName>
+          <modShopLabel>DOMGSX_SPL2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_spl3</modelName>
+          <modShopLabel>DOMGSX_SPL3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_spl4</modelName>
+          <modShopLabel>DOMGSX_SPL4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_spl5</modelName>
+          <modShopLabel>DOMGSX_SPL5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_spl6</modelName>
+          <modShopLabel>DOMGSX_SPL6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_spl7</modelName>
+          <modShopLabel>DOMGSX_SPL7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_spl8</modelName>
+          <modShopLabel>DOMGSX_SPL8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_spl9</modelName>
+          <modShopLabel>DOMGSX_SPL9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_skirt0a</modelName>
+          <modShopLabel>DOMGSX_SKIRT0A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_skirt1</modelName>
+          <modShopLabel>DOMGSX_SKIRT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_skirt1a</modelName>
+          <modShopLabel>DOMGSX_SKIRT1A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_skirt2</modelName>
+          <modShopLabel>DOMGSX_SKIRT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_splt1</modelName>
+          <modShopLabel>DOMGSX_SPLT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_splt2</modelName>
+          <modShopLabel>DOMGSX_SPLT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_splt3</modelName>
+          <modShopLabel>DOMGSX_SPLT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_splt4</modelName>
+          <modShopLabel>DOMGSX_SPLT4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_splt5</modelName>
+          <modShopLabel>DOMGSX_SPLT5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_splt6</modelName>
+          <modShopLabel>DOMGSX_SPLT6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_bumf0a</modelName>
+          <modShopLabel>DOMGSX_BUMF0A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_bumf1</modelName>
+          <modShopLabel>DOMGSX_BUMF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_bumf1a</modelName>
+          <modShopLabel>DOMGSX_BUMF1A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_bumf2</modelName>
+          <modShopLabel>DOMGSX_BUMF2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_bumf3</modelName>
+          <modShopLabel>DOMGSX_BUMF3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh1</modelName>
+          <modShopLabel>DOMGSX_BUMR0E1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh2</modelName>
+          <modShopLabel>DOMGSX_BUMR0E2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_bumr0a</modelName>
+          <modShopLabel>DOMGSX_BUMR0A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh1</modelName>
+          <modShopLabel>DOMGSX_BUMR0AE1</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_bumr0a</Item>
+          </linkedModels>
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_p</Item>
+          <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh2</modelName>
+          <modShopLabel>DOMGSX_BUMR0AE2</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_bumr0a</Item>
+          </linkedModels>
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_p</Item>
+          <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh0a</modelName>
+          <modShopLabel>DOMGSX_BUMR1</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_bumr1</Item>
+          </linkedModels>
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_p</Item>
+          <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh1a</modelName>
+          <modShopLabel>DOMGSX_BUMR1E1</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_bumr1</Item>
+          </linkedModels>
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_p</Item>
+          <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh2a</modelName>
+          <modShopLabel>DOMGSX_BUMR1E2</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_bumr1</Item>
+          </linkedModels>
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_p</Item>
+          <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_null</modelName>
+          <modShopLabel>DOMGSX_BUMR2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_p</Item>
+          <Item>misc_v</Item>
+          <Item>extra_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh1</modelName>
+          <modShopLabel>DOMGSX_BUMR2E1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_p</Item>
+          <Item>misc_e</Item>
+          <Item>misc_v</Item>
+          <Item>extra_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_exh2</modelName>
+          <modShopLabel>DOMGSX_BUMR2E2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+          <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_p</Item>
+          <Item>misc_e</Item>
+          <Item>misc_v</Item>
+          <Item>extra_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_roof0a</modelName>
+          <modShopLabel>DOMGSX_ROOF0A</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_roof1</modelName>
+          <modShopLabel>DOMGSX_ROOF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_roof1a</modelName>
+          <modShopLabel>DOMGSX_ROOF1A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_roof2</modelName>
+          <modShopLabel>DOMGSX_ROOF2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_roof2a</modelName>
+          <modShopLabel>DOMGSX_ROOF2A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_diff1</modelName>
+          <modShopLabel>DOMGSX_DIFF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_diff2</modelName>
+          <modShopLabel>DOMGSX_DIFF2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_diff3</modelName>
+          <modShopLabel>DOMGSX_DIFF3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_diff4</modelName>
+          <modShopLabel>DOMGSX_DIFF4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_diff5</modelName>
+          <modShopLabel>DOMGSX_DIFF5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_diff6</modelName>
+          <modShopLabel>DOMGSX_DIFF6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_diff7</modelName>
+          <modShopLabel>DOMGSX_DIFF7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_diff8</modelName>
+          <modShopLabel>DOMGSX_DIFF8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_rpanel1</modelName>
+          <modShopLabel>DOMGSX_RPANEL1</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_rpanel1rb</Item>
+          <Item>domgsx_rpanel1b</Item>
+          </linkedModels>
+          <turnOffBones>
+          <Item>misc_h</Item>
+          <Item>misc_v</Item>
+          <Item>misc_u</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_rpanel2</modelName>
+          <modShopLabel>DOMGSX_RPANEL2</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_rpanel2rb</Item>
+          <Item>domgsx_rpanel2b</Item>
+          </linkedModels>
+          <turnOffBones>
+          <Item>misc_h</Item>
+          <Item>misc_v</Item>
+          <Item>misc_u</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_1</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_2</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_3</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_4</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_5</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_6</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_7</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_8</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_9</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_10</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_10</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_11</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_11</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_12</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_12</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_13</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_13</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_14</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_14</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_15</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_15</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_16</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_16</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_17</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_17</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gbdomgsx_livery_18</modelName>
+          <modShopLabel>GBDOMGSX_LIVERY_18</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide1</modelName>
+          <modShopLabel>DOMGSX_WIDE1</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_wide1f</Item>
+          <Item>domgsx_wide1r</Item>
+          <Item>domgsx_wide1lf</Item>
+          <Item>domgsx_wide1rf</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide2</modelName>
+          <modShopLabel>DOMGSX_WIDE2</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_wide2f</Item>
+          <Item>domgsx_wide2r</Item>
+          <Item>domgsx_wide2lf</Item>
+          <Item>domgsx_wide2rf</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide2a</modelName>
+          <modShopLabel>DOMGSX_WIDE2A</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_wide2f</Item>
+          <Item>domgsx_wide2ar</Item>
+          <Item>domgsx_wide2lf</Item>
+          <Item>domgsx_wide2rf</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide3</modelName>
+          <modShopLabel>DOMGSX_WIDE3</modShopLabel>
+          <linkedModels>
+          <Item>domgsx_wide3f</Item>
+          <Item>domgsx_wide3r</Item>
+          <Item>domgsx_wide3lf</Item>
+          <Item>domgsx_wide3rf</Item>
+          </linkedModels>
+          <turnOffBones>
+          <Item>misc_x</Item>
+          <Item>misc_y</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+        <Item>
+          <modelName>domgsx_wide1lf</modelName>
+          <bone>wing_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide1rf</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide1f</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide1r</modelName>
+          <bone>extra_3</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide2lf</modelName>
+          <bone>wing_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide2rf</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide2f</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide2r</modelName>
+          <bone>extra_3</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide2ar</modelName>
+          <bone>extra_3</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide3lf</modelName>
+          <bone>wing_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide3rf</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide3f</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_wide3r</modelName>
+          <bone>extra_3</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_bumr1</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_bumr0a</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_rpanel1rb</modelName>
+          <bone>extra_3</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_rpanel2rb</modelName>
+          <bone>extra_3</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_rpanel1b</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>domgsx_rpanel2b</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="5" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="35" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item> 
+        <Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+        <Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+        <Item>
+          <slot>VMT_EXHAUST</slot>
+          <name>TOP_DOMR</name>
+        </Item>
+        <Item>
+          <slot>VMT_BUMPER_R</slot>
+          <name>TOP_EXH</name>
+        </Item>
+        <Item>
+          <slot>VMT_TRUNK</slot>
+          <name>TOP_RPNL</name>
+        </Item>
+        <Item>
+          <slot>VMT_WING_l</slot>
+          <name>TOP_SPLIT</name>
+        </Item>
+        <Item>
+          <slot>VMT_WING_R</slot>
+          <name>TOP_DOMFL</name>
+        </Item>
+      </slotNames>
+      <liveryNames />
+    </Item>
+  </Kits>
+  <Lights />
+</CVehicleModelInfoVarGlobal>

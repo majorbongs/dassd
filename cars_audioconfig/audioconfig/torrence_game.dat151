@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat151>
+ <Version value="6978435" />
+ <Items>
+  <Item type="Vehicle" ntOffset="364413">
+   <Name>torrence</Name>
+   <Unk00 value="0x90004A69" />
+   <Engine>hash_6703BB8F</Engine>
+   <EngineGranular>hash_D2221B74</EngineGranular>
+   <Horns>hash_134DA50D</Horns>
+   <DoorOpen>hash_6189B119</DoorOpen>
+   <DoorClose>hash_3BD2ADA6</DoorClose>
+   <TrunkOpen>hash_F84DF9F0</TrunkOpen>
+   <TrunkClose>hash_9FB423F8</TrunkClose>
+   <Unk08>null_sound</Unk08>
+   <Unk09 value="0.5" />
+   <SuspensionUp>hash_E53F236A</SuspensionUp>
+   <SuspensionDown>hash_BD190A63</SuspensionDown>
+   <Unk12 value="0.4" />
+   <Unk13 value="1" />
+   <Unk14>hash_00C2FB47</Unk14>
+   <Unk15 value="0" />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <ScannerParams>hash_F3075CAF</ScannerParams>
+   <JumpLandIntact>hash_A5EB71C0</JumpLandIntact>
+   <JumpLandLoose>hash_1AF1FCAC</JumpLandLoose>
+   <Unk21 value="31" />
+   <Unk22 value="36" />
+   <RadioFlags value="0x01010002" />
+   <IndicatorOn>null_sound</IndicatorOn>
+   <IndicatorOff>null_sound</IndicatorOff>
+   <Handbrake>hash_57E280AF</Handbrake>
+   <Unk27 value="0x00030001" />
+   <Unk28>hash_674E1F4D</Unk28>
+   <Unk29 value="0x55FC0070" />
+   <Unk30>hash_795E90E6</Unk30>
+   <Unk31>hash_795E90E6</Unk31>
+   <Unk32>hash_2FF627AC</Unk32>
+   <StartupSequence>hash_B807DF3E</StartupSequence>
+   <Unk34>null_sound</Unk34>
+   <Unk35>hash_F52E6D86</Unk35>
+   <Unk36>hash_F52E6D86</Unk36>
+   <Unk37 value="6" />
+   <Unk38 value="3" />
+   <Unk39 />
+   <Unk40 value="0" />
+   <Sirens />
+   <Unk42 value="0" />
+   <Unk43 value="0" />
+   <Unk44 value="0" />
+   <Unk45>hash_0C3F6AD5</Unk45>
+   <Unk46>hash_359E05CB</Unk46>
+   <Unk47 />
+   <TurretSounds />
+   <Unk49 value="8" />
+   <Unk50 />
+   <Unk51 />
+   <Unk52 value="0" />
+   <ElectricEngine />
+   <Unk54 value="0" />
+   <ReverseWarning>null_sound</ReverseWarning>
+   <Unk56 value="3" />
+   <VehicleMaster>null_sound</VehicleMaster>
+   <ShutdownBeep>null_sound</ShutdownBeep>
+   <Unk59 value="1" />
+   <Unk60 value="0" />
+   <Unk61 value="1" />
+   <Unk62 value="0" />
+   <Unk63>null_sound</Unk63>
+   <Unk64 value="0" />
+   <Unk65 value="0" />
+   <Unk66 value="0" />
+   <Unk67 />
+   <Unk68>null_sound</Unk68>
+   <Unk69 />
+   <Unk70 value="0" />
+   <Unk71>null_sound</Unk71>
+   <Unk72>null_sound</Unk72>
+  </Item>
+  <Item type="VehicleEngine" ntOffset="364419">
+   <Name>hash_6703BB8F</Name>
+   <Unk00 value="200" />
+   <Unk01 value="-400" />
+   <Unk02 value="600" />
+   <Unk03 value="800" />
+   <EngineLow>hash_A7B73C2F</EngineLow>
+   <EngineHigh>hash_51E04858</EngineHigh>
+   <ExhaustLow>hash_B0A28DDA</ExhaustLow>
+   <ExhaustHigh>hash_1AA1DC12</ExhaustHigh>
+   <RevsOff>hash_22385FE7</RevsOff>
+   <Unk09 value="-600" />
+   <Unk10 value="1200" />
+   <EngineIdleLoop>hash_DDC5CE45</EngineIdleLoop>
+   <ExhaustIdleLoop>hash_3EDDB0A4</ExhaustIdleLoop>
+   <Unk13 value="-300" />
+   <Unk14 value="1200" />
+   <AirIntake />
+   <Unk16 value="-800" />
+   <Unk17 value="0" />
+   <Turbo>null_sound</Turbo>
+   <Unk19 value="-600" />
+   <Unk20 value="600" />
+   <DumpValve>null_sound</DumpValve>
+   <Unk22 value="100" />
+   <Unk23 value="50" />
+   <Transmission>hash_699D9F91</Transmission>
+   <Unk25 value="0" />
+   <Unk26 value="2400" />
+   <Unk27 value="400" />
+   <Ignition>hash_26DE38C2</Ignition>
+   <ShutDown>hash_EE1ADBF0</ShutDown>
+   <Unk30>hash_11642A7D</Unk30>
+   <ExhaustPops>null_sound</ExhaustPops>
+   <Unk32>hash_55EEED30</Unk32>
+   <Unk33 value="0" />
+   <FansVolume value="0" />
+   <StartupMaster>hash_3AA24EA3</StartupMaster>
+   <Unk36 />
+   <Unk37 />
+   <Unk38 />
+   <Unk39 />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="700" />
+   <Unk43>hash_AB78E2E9</Unk43>
+   <Unk44>hash_79AC0C09</Unk44>
+   <Unk45 value="0" />
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <DumpValveUpgraded>hash_C0108E98</DumpValveUpgraded>
+   <Unk52 value="700" />
+   <TransmissionUpgraded>null_sound</TransmissionUpgraded>
+   <TurboUpgraded>hash_E159A100</TurboUpgraded>
+   <AirIntakeUpgraded>hash_5E936348</AirIntakeUpgraded>
+   <ExhaustPopsUpgraded>hash_0C2B85F2</ExhaustPopsUpgraded>
+  </Item>
+  <Item type="VehicleEngineGranular" ntOffset="364432">
+   <Name>hash_D2221B74</Name>
+   <Unk00 value="0xAAAAA905" />
+   <MasterVolume value="0" />
+   <EngineAccel>hash_4C311ABE</EngineAccel>
+   <ExhaustAccel>hash_1BE8F4F3</ExhaustAccel>
+   <Unk04 value="0" />
+   <Unk05 value="0" />
+   <Unk06 value="0" />
+   <Unk07 value="0" />
+   <Unk08 value="0" />
+   <Unk09 value="0" />
+   <Unk10 value="0" />
+   <Unk11 value="0" />
+   <Unk12 value="0" />
+   <Unk13 value="600" />
+   <Unk14 value="800" />
+   <Unk15 value="-200" />
+   <Unk16 value="-200" />
+   <Unk17 value="-100" />
+   <Unk18 value="0" />
+   <Unk19 value="600" />
+   <Unk20 value="500" />
+   <Unk21 value="30" />
+   <Unk22 value="0.2" />
+   <Unk23 value="0.26" />
+   <Unk24 value="0.2" />
+   <Unk25 value="0.15" />
+   <Unk26 value="0.2" />
+   <Unk27 value="0" />
+   <Unk28 value="0.2" />
+   <Unk29 value="0" />
+   <Unk30 value="0" />
+   <EngineSubmix>hash_1932E476</EngineSubmix>
+   <EngineSubmixPreset>hash_0CEF421B</EngineSubmixPreset>
+   <ExhaustSubmix>hash_4022A088</ExhaustSubmix>
+   <ExhaustSubmixPreset>hash_ADA6CB1C</ExhaustSubmixPreset>
+   <EngineAccelNPC>hash_1708D274</EngineAccelNPC>
+   <ExhaustAccelNPC>hash_1BE8F4F3</ExhaustAccelNPC>
+   <Unk37>null_sound</Unk37>
+   <Unk38 value="0" />
+   <Unk39 value="0" />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="600" />
+   <Unk43 value="5" />
+   <Unk44 value="2" />
+   <IdleSub>hash_DF7EA12C</IdleSub>
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <Unk51 value="0" />
+   <Unk52>hash_B3BAE87C</Unk52>
+   <Unk53>hash_68A35E88</Unk53>
+   <Unk54 value="0" />
+   <Unk55 value="0" />
+   <Unk56 value="500" />
+   <Unk57 value="500" />
+   <Unk58 value="1" />
+   <Unk59 value="0.2" />
+  </Item>
+  <Item type="VehicleEngine" ntOffset="364454">
+   <Name>hash_83705B14</Name>
+   <Unk00 value="200" />
+   <Unk01 value="-400" />
+   <Unk02 value="600" />
+   <Unk03 value="800" />
+   <EngineLow>hash_A7B73C2F</EngineLow>
+   <EngineHigh>hash_51E04858</EngineHigh>
+   <ExhaustLow>hash_B0A28DDA</ExhaustLow>
+   <ExhaustHigh>hash_1AA1DC12</ExhaustHigh>
+   <RevsOff>hash_22385FE7</RevsOff>
+   <Unk09 value="-600" />
+   <Unk10 value="1200" />
+   <EngineIdleLoop>hash_DDC5CE45</EngineIdleLoop>
+   <ExhaustIdleLoop>hash_3EDDB0A4</ExhaustIdleLoop>
+   <Unk13 value="-300" />
+   <Unk14 value="1200" />
+   <AirIntake />
+   <Unk16 value="-800" />
+   <Unk17 value="0" />
+   <Turbo>null_sound</Turbo>
+   <Unk19 value="-600" />
+   <Unk20 value="600" />
+   <DumpValve>null_sound</DumpValve>
+   <Unk22 value="100" />
+   <Unk23 value="50" />
+   <Transmission>hash_699D9F91</Transmission>
+   <Unk25 value="0" />
+   <Unk26 value="2400" />
+   <Unk27 value="400" />
+   <Ignition>hash_26DE38C2</Ignition>
+   <ShutDown>hash_EE1ADBF0</ShutDown>
+   <Unk30>hash_11642A7D</Unk30>
+   <ExhaustPops>null_sound</ExhaustPops>
+   <Unk32>hash_55EEED30</Unk32>
+   <Unk33 value="0" />
+   <FansVolume value="0" />
+   <StartupMaster>hash_3AA24EA3</StartupMaster>
+   <Unk36 />
+   <Unk37 />
+   <Unk38 />
+   <Unk39 />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="700" />
+   <Unk43>hash_AB78E2E9</Unk43>
+   <Unk44>hash_79AC0C09</Unk44>
+   <Unk45 value="0" />
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <DumpValveUpgraded>hash_C0108E98</DumpValveUpgraded>
+   <Unk52 value="700" />
+   <TransmissionUpgraded>null_sound</TransmissionUpgraded>
+   <TurboUpgraded>hash_E159A100</TurboUpgraded>
+   <AirIntakeUpgraded>hash_4CF1C005</AirIntakeUpgraded>
+   <ExhaustPopsUpgraded>hash_0C2B85F2</ExhaustPopsUpgraded>
+  </Item>
+  <Item type="VehicleEngineGranular" ntOffset="364468">
+   <Name>hash_8B935565</Name>
+   <Unk00 value="0xAAAAA905" />
+   <MasterVolume value="0" />
+   <EngineAccel>hash_4C311ABE</EngineAccel>
+   <ExhaustAccel>hash_1BE8F4F3</ExhaustAccel>
+   <Unk04 value="0" />
+   <Unk05 value="0" />
+   <Unk06 value="0" />
+   <Unk07 value="0" />
+   <Unk08 value="0" />
+   <Unk09 value="0" />
+   <Unk10 value="0" />
+   <Unk11 value="0" />
+   <Unk12 value="0" />
+   <Unk13 value="600" />
+   <Unk14 value="800" />
+   <Unk15 value="-200" />
+   <Unk16 value="-200" />
+   <Unk17 value="-100" />
+   <Unk18 value="0" />
+   <Unk19 value="600" />
+   <Unk20 value="500" />
+   <Unk21 value="30" />
+   <Unk22 value="0.2" />
+   <Unk23 value="0.26" />
+   <Unk24 value="0.2" />
+   <Unk25 value="0.15" />
+   <Unk26 value="0.2" />
+   <Unk27 value="0" />
+   <Unk28 value="0.2" />
+   <Unk29 value="0" />
+   <Unk30 value="0" />
+   <EngineSubmix>hash_1932E476</EngineSubmix>
+   <EngineSubmixPreset>hash_0CEF421B</EngineSubmixPreset>
+   <ExhaustSubmix>hash_4022A088</ExhaustSubmix>
+   <ExhaustSubmixPreset>hash_ADA6CB1C</ExhaustSubmixPreset>
+   <EngineAccelNPC>hash_1708D274</EngineAccelNPC>
+   <ExhaustAccelNPC>hash_1BE8F4F3</ExhaustAccelNPC>
+   <Unk37>null_sound</Unk37>
+   <Unk38 value="0" />
+   <Unk39 value="0" />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="600" />
+   <Unk43 value="5" />
+   <Unk44 value="2" />
+   <IdleSub>hash_DF7EA12C</IdleSub>
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <Unk51 value="0" />
+   <Unk52>hash_B3BAE87C</Unk52>
+   <Unk53>hash_68A35E88</Unk53>
+   <Unk54 value="0" />
+   <Unk55 value="0" />
+   <Unk56 value="500" />
+   <Unk57 value="500" />
+   <Unk58 value="1" />
+   <Unk59 value="0.2" />
+  </Item>
+ </Items>
+</Dat151>

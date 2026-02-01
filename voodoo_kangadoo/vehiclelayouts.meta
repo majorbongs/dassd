@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr>
+  <VehicleCoverBoundOffsetInfos />
+  <VehicleSeatInfos /> 
+  <VehicleSeatAnimInfos />  
+  <VehicleEntryPointInfos />
+  <VehicleEntryPointAnimInfos />
+  <VehicleLayoutInfos>
+     <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_VDP</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_VAN_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_STANDARD_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_VAN_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_STANDARD_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <SeatInfo ref="SEAT_EXTRA_LEFT_1" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_RIGHT_1" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_RIGHT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_LEFT_2" />
+          <SeatAnimInfo ref="SEAT_ANIM_BODHI_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_RIGHT_2" />
+          <SeatAnimInfo ref="SEAT_ANIM_BODHI_REAR_RIGHT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <EntryPointInfo ref="ENTRY_POINT_EXTRA_LEFT_1" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_EXTRA_RIGHT_1" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_RIGHT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_EXTRA_LEFT_2" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_EXTRA_RIGHT_2" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseVanOpenDoorBlendParams UseDoorOscillation NoArmIkOnInsideCloseDoor UseLeanSteerAnims UseFinerAlignTolerance UseLowerDoorBlockTest</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <HandsUpClipSetId>busted_vehicle_van</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+	  <MaxXAcceleration value="3.00000" />
+	  <BodyLeanXApproachSpeed value="10.00000" />
+	  <FirstPersonAdditiveIdleClipSets>
+        <Item>clipset@veh@van@ds@idle_a</Item>
+		<Item>clipset@veh@van@ds@idle_b</Item>
+		<Item>clipset@veh@van@ds@idle_c</Item>
+		<Item>clipset@veh@van@ds@idle_d</Item>
+		<Item>clipset@veh@van@ds@idle_e</Item>
+	  </FirstPersonAdditiveIdleClipSets>
+	  <FirstPersonRoadRageClipSets>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_a</Item>
+		<Item>clipset@veh@van@ds@hit_wheel@idle_b</Item>
+		<Item>clipset@veh@van@ds@hit_wheel@idle_c</Item>
+	  </FirstPersonRoadRageClipSets>
+    </Item> 
+
+
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_VDS</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_VAN_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_STANDARD_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_VAN_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_STANDARD_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <SeatInfo ref="SEAT_EXTRA_LEFT_1" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_RIGHT_1" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_RIGHT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_LEFT_2" />
+          <SeatAnimInfo ref="SEAT_ANIM_BODHI_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_RIGHT_2" />
+          <SeatAnimInfo ref="SEAT_ANIM_BODHI_REAR_RIGHT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <EntryPointInfo ref="ENTRY_POINT_EXTRA_LEFT_1" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_EXTRA_RIGHT_1" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_RIGHT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_EXTRA_LEFT_2" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_EXTRA_RIGHT_2" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_BODHI_REAR_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseVanOpenDoorBlendParams UseDoorOscillation NoArmIkOnInsideCloseDoor UseLeanSteerAnims UseFinerAlignTolerance UseLowerDoorBlockTest</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <HandsUpClipSetId>busted_vehicle_van</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+	  <MaxXAcceleration value="3.00000" />
+	  <BodyLeanXApproachSpeed value="10.00000" />
+	  <FirstPersonAdditiveIdleClipSets>
+        <Item>clipset@veh@van@ds@idle_a</Item>
+		<Item>clipset@veh@van@ds@idle_b</Item>
+		<Item>clipset@veh@van@ds@idle_c</Item>
+		<Item>clipset@veh@van@ds@idle_d</Item>
+		<Item>clipset@veh@van@ds@idle_e</Item>
+	  </FirstPersonAdditiveIdleClipSets>
+	  <FirstPersonRoadRageClipSets>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_a</Item>
+		<Item>clipset@veh@van@ds@hit_wheel@idle_b</Item>
+		<Item>clipset@veh@van@ds@hit_wheel@idle_c</Item>
+	  </FirstPersonRoadRageClipSets>
+    </Item>  	
+  </VehicleLayoutInfos>
+</CVehicleMetadataMgr>

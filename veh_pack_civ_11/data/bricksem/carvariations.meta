@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <!-- Add your car variations here -->
+		<Item>
+      <modelName>bricksem</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            10
+            10
+            0
+            0
+          </indices>
+           	<liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            2
+            0
+            0
+          </indices>
+           	<liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            2
+            0
+            0
+          </indices>
+           	<liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            2
+            0
+            0
+          </indices>
+           	<liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            10
+            0
+            0
+          </indices>
+           	<liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            53
+            53
+            0
+            0
+          </indices>
+           	<liveries/>
+        </Item>
+   
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="15" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+       	<lightSettings value="335" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr>
+  <AnimRateSets />
+  <ClipSetMaps>
+    <Item type="CClipSetMap">
+      <Name>ENTRY_CLIPSET_MAP_PLANE_216X_FRONT_LEFT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@streamer@front@ds@enter_exit</ClipSetId>
+          <VarClipSetId>EntryVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>EXIT_CLIPSET_MAP_PLANE_216X_FRONT_LEFT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@streamer@front@ds@enter_exit</ClipSetId>
+          <VarClipSetId>ExitVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>INSIDE_CLIPSET_MAP_PLANE_216X_FRONT_LEFT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@mammatus@front@ds@base</ClipSetId>
+          <VarClipSetId>InsideVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>ENTRY_CLIPSET_MAP_PLANE_216X_FRONT_RIGHT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@streamer@front@ps@enter_exit</ClipSetId>
+          <VarClipSetId>EntryVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>EXIT_CLIPSET_MAP_PLANE_216X_FRONT_RIGHT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@streamer@front@ps@enter_exit</ClipSetId>
+          <VarClipSetId>ExitVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>INSIDE_CLIPSET_MAP_PLANE_216X_FRONT_RIGHT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@mammatus@front@ps@base</ClipSetId>
+          <VarClipSetId>InsideVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>ENTRY_CLIPSET_MAP_PLANE_216X_REAR_LEFT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@streamer@rear@ds@enter_exit</ClipSetId>
+          <VarClipSetId>EntryVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>EXIT_CLIPSET_MAP_PLANE_216X_REAR_LEFT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@streamer@rear@ds@enter_exit</ClipSetId>
+          <VarClipSetId>ExitVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>INSIDE_CLIPSET_MAP_PLANE_216X_REAR_LEFT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>anim@veh@plane@bombushka@rear@rds@base</ClipSetId>
+          <VarClipSetId>InsideVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>ENTRY_CLIPSET_MAP_PLANE_216X_REAR_RIGHT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@streamer@rear@ps@enter_exit</ClipSetId>
+          <VarClipSetId>EntryVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>EXIT_CLIPSET_MAP_PLANE_216X_REAR_RIGHT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>clipset@veh@plane@streamer@rear@ps@enter_exit</ClipSetId>
+          <VarClipSetId>ExitVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+    </Item>
+    <Item type="CClipSetMap">
+      <Name>INSIDE_CLIPSET_MAP_PLANE_216X_REAR_RIGHT</Name>
+      <Maps>
+        <Item>
+          <ClipSetId>anim@veh@plane@bombushka@rear@rds@base</ClipSetId>
+          <VarClipSetId>InsideVarClipSet</VarClipSetId>
+          <ConditionFlags />
+          <InformationFlags />
+        </Item>
+      </Maps>
+	</Item>
+  </ClipSetMaps>
+  <VehicleCoverBoundOffsetInfos />
+  <BicycleInfos />
+  <POVTuningInfos />
+  <EntryAnimVariations>
+    <Item type="CEntryAnimVariations">
+      <Name>ENTRY_ANIM_VARIATIONS_PLANE_216X_REAR_LEFT</Name>
+      <Flags />
+      <Conditions />
+      <EntryAnims />
+      <JackingAnims />
+      <ExitAnims>
+        <Item type="CConditionalClipSet">
+          <ClipSet>clipset@veh@plane@streamer@rear@ds@enter_exit_skydive</ClipSet>
+          <AssociatedSpeech />
+          <Conditions />
+          <ActionFlags>IsSkyDive</ActionFlags>
+        </Item>
+      </ExitAnims>
+    </Item>
+    <Item type="CEntryAnimVariations">
+      <Name>ENTRY_ANIM_VARIATIONS_PLANE_216X_REAR_RIGHT</Name>
+      <Flags />
+      <Conditions />
+      <EntryAnims />
+      <JackingAnims />
+      <ExitAnims>
+        <Item type="CConditionalClipSet">
+          <ClipSet>clipset@veh@plane@streamer@rear@ps@enter_exit_skydive</ClipSet>
+          <AssociatedSpeech />
+          <Conditions />
+          <ActionFlags>IsSkyDive</ActionFlags>
+        </Item>
+      </ExitAnims>
+    </Item>
+  </EntryAnimVariations>
+  <VehicleExtraPointsInfos>
+    <Item type="CVehicleExtraPointsInfo">
+      <Name>EXTRA_VEHICLE_POINTS_216X_REAR_LEFT</Name>
+      <ExtraVehiclePoints>
+        <Item>
+          <LocationType>SEAT_RELATIVE</LocationType>
+          <PointType>GET_IN</PointType>
+          <Position x="1.800000" y="0.250000" z="0.550000" />
+          <Heading value="0.000000" />
+          <Pitch value="0.000000" />
+          <BoneName />
+        </Item>
+        <Item>
+          <LocationType>SEAT_RELATIVE</LocationType>
+          <PointType>GET_OUT</PointType>
+          <Position x="1.370000" y="0.560000" z="0.590000" />
+          <Heading value="3.760000" />
+          <Pitch value="0.000000" />
+          <BoneName />
+        </Item>
+      </ExtraVehiclePoints>
+    </Item>
+    <Item type="CVehicleExtraPointsInfo">
+      <Name>EXTRA_VEHICLE_POINTS_216X_REAR_LEFT_1</Name>
+      <ExtraVehiclePoints>
+        <Item>
+          <LocationType>SEAT_RELATIVE</LocationType>
+          <PointType>GET_IN</PointType>
+          <Position x="-1.800000" y="1.000000" z="0.550000" />
+          <Heading value="3.100000" />
+          <Pitch value="0.000000" />
+          <BoneName />
+        </Item>
+        <Item>
+          <LocationType>SEAT_RELATIVE</LocationType>
+          <PointType>GET_OUT</PointType>
+          <Position x="-1.370000" y="0.680000" z="0.590000" />
+          <Heading value="0.600000" />
+          <Pitch value="0.000000" />
+          <BoneName />
+        </Item>
+      </ExtraVehiclePoints>
+    </Item>
+  </VehicleExtraPointsInfos>
+  <DrivebyWeaponGroups />
+  <VehicleDriveByAnimInfos />
+  <VehicleSeatInfos />
+  <VehicleSeatAnimInfos>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_PLANE_216X_FRONT_LEFT</Name>
+      <DriveByInfo ref="NULL" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_PLANE_216X_FRONT_LEFT" />
+      <PanicClipSet />
+      <AgitatedClipSet />
+      <DuckedClipSet />
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>STD_CAR_FRONT_DS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>UseStandardInVehicleAnims</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName />
+      <MaleGestureClipSetId />
+      <FemaleGestureClipSetId />
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_PLANE_216X_FRONT_RIGHT</Name>
+      <DriveByInfo ref="NULL" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_PLANE_216X_FRONT_RIGHT" />
+      <PanicClipSet />
+      <AgitatedClipSet />
+      <DuckedClipSet />
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>STD_CAR_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>WeaponAttachedToLeftHand UseStandardInVehicleAnims</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName />
+      <MaleGestureClipSetId />
+      <FemaleGestureClipSetId />
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_PLANE_216X_REAR_LEFT</Name>
+      <DriveByInfo ref="NULL" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_PLANE_216X_REAR_LEFT" />
+      <PanicClipSet />
+      <AgitatedClipSet />
+      <DuckedClipSet />
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>BUS_PASSENGER</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>CannotBeJacked UseStandardInVehicleAnims PreventShuffleJack CanWarpToDriverSeatIfNoDriver DisableAbnormalExits UseDirectEntryOnlyWhenEntering</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName />
+      <MaleGestureClipSetId />
+      <FemaleGestureClipSetId />
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_PLANE_216X_REAR_RIGHT</Name>
+      <DriveByInfo ref="NULL" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_PLANE_216X_REAR_RIGHT" />
+      <PanicClipSet />
+      <AgitatedClipSet />
+      <DuckedClipSet />
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>BUS_PASSENGER</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>CannotBeJacked UseStandardInVehicleAnims PreventShuffleJack CanWarpToDriverSeatIfNoDriver DisableAbnormalExits UseDirectEntryOnlyWhenEntering</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName />
+      <MaleGestureClipSetId />
+      <FemaleGestureClipSetId />
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+  </VehicleSeatAnimInfos>
+  <VehicleEntryPointInfos>
+    <Item type="CVehicleEntryPointInfo">
+      <Name>ENTRY_POINT_216X_MP_WARP_REAR_LEFT</Name>
+      <DoorBoneName>door_dside_r</DoorBoneName>
+      <SecondDoorBoneName />
+      <DoorHandleBoneName>handle_dside_r</DoorHandleBoneName>
+      <WindowId>REAR_LEFT</WindowId>
+      <VehicleSide>SIDE_LEFT</VehicleSide>
+      <AccessableSeats>
+        <Item ref="SEAT_STANDARD_REAR_LEFT" />
+        <Item ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_1" />
+        <Item ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_2" />
+        <Item ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_3" />
+        <Item ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_4" />
+		<Item ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_5" />
+      </AccessableSeats>
+      <VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_216X_REAR_LEFT" />
+      <Flags>BlockJackReactionUntilJackerIsReady AutoCloseThisDoor CloseDoorAfterClimbDown</Flags>
+      <BlockJackReactionSides>
+        <Item>SIDE_LEFT</Item>
+      </BlockJackReactionSides>
+      <BreakoutTestPoint>POINT_TYPE_MAX</BreakoutTestPoint>
+    </Item>
+    <Item type="CVehicleEntryPointInfo">
+      <Name>ENTRY_POINT_216X_MP_WARP_REAR_LEFT_1</Name>
+      <DoorBoneName>door_dside_r</DoorBoneName>
+      <SecondDoorBoneName />
+      <DoorHandleBoneName>handle_dside_r</DoorHandleBoneName>
+      <WindowId>REAR_LEFT</WindowId>
+      <VehicleSide>SIDE_LEFT</VehicleSide>
+      <AccessableSeats>
+        <Item ref="SEAT_STANDARD_REAR_RIGHT" />
+        <Item ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_1" />
+        <Item ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_2" />
+        <Item ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_3" />
+        <Item ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_4" />
+		<Item ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_5" />
+      </AccessableSeats>
+      <VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_216X_REAR_LEFT_1" />
+      <Flags>BlockJackReactionUntilJackerIsReady AutoCloseThisDoor CloseDoorAfterClimbDown</Flags>
+      <BlockJackReactionSides>
+        <Item>SIDE_LEFT</Item>
+      </BlockJackReactionSides>
+      <BreakoutTestPoint>POINT_TYPE_MAX</BreakoutTestPoint>
+    </Item>
+  </VehicleEntryPointInfos>
+  <VehicleEntryPointAnimInfos>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_PLANE_216X_FRONT_LEFT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_TRUCK_LEFT" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_216X_FRONT_LEFT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_216X_FRONT_LEFT" />
+      <AlternateTryLockedDoorClipId />
+      <AlternateForcedEntryClipId />
+      <AlternateJackFromOutSideClipId />
+      <AlternateBeJackedFromOutSideClipId />
+      <AlternateEntryPointClipSetId />
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="-1.000000" y="-0.150000" z="0.050000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="0.000000" />
+      <EntryHeadingChange value="-1.570000" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_ANNIHILATOR_FRONT_LEFT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_PLANE_216X_FRONT_RIGHT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_TRUCK_RIGHT" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_216X_FRONT_RIGHT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_216X_FRONT_RIGHT" />
+      <AlternateTryLockedDoorClipId />
+      <AlternateForcedEntryClipId />
+      <AlternateJackFromOutSideClipId />
+      <AlternateBeJackedFromOutSideClipId />
+      <AlternateEntryPointClipSetId />
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="1.000000" y="-0.150000" z="0.050000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="0.000000" />
+      <EntryHeadingChange value="1.570000" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_ANNIHILATOR_FRONT_RIGHT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_PLANE_216X_REAR_LEFT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_PLANE_JET" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_216X_REAR_LEFT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_216X_REAR_LEFT" />
+      <AlternateTryLockedDoorClipId />
+      <AlternateForcedEntryClipId />
+      <AlternateJackFromOutSideClipId />
+      <AlternateBeJackedFromOutSideClipId />
+      <AlternateEntryPointClipSetId />
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="1.600000" y="-0.920000" z="-0.485000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="0.000000" />
+      <EntryHeadingChange value="0.000000" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>UseVehicleRelativeEntryPosition NavigateToWarpEntryPoint JackIncludesGetIn UsesNoDoorTransitionForEnter UseNewPlaneSystem DontCloseDoorInside PreventJackInterrupt DontCloseDoorOutside HasClimbDown JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_216X_REAR_LEFT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_PLANE_216X_REAR_LEFT_1</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_PLANE_JET" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_PLANE_216X_REAR_RIGHT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_PLANE_216X_REAR_RIGHT" />
+      <AlternateTryLockedDoorClipId />
+      <AlternateForcedEntryClipId />
+      <AlternateJackFromOutSideClipId />
+      <AlternateBeJackedFromOutSideClipId />
+      <AlternateEntryPointClipSetId />
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="-1.600000" y="2.150000" z="-0.385000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="0.000000" />
+      <EntryHeadingChange value="3.100000" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>UseVehicleRelativeEntryPosition NavigateToWarpEntryPoint JackIncludesGetIn UsesNoDoorTransitionForEnter UseNewPlaneSystem DontCloseDoorInside PreventJackInterrupt DontCloseDoorOutside HasClimbDown JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_216X_REAR_RIGHT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+  </VehicleEntryPointAnimInfos>
+  <VehicleExplosionInfos />
+  <VehicleLayoutInfos>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_PLANE_216X</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_1" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_1" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_2" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_2" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_3" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_3" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_4" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_4" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_RIGHT" />
+        </Item>
+		<Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_LEFT_5" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_EXTRA_NO_SHUFFLE_RIGHT_5" />
+          <SeatAnimInfo ref="SEAT_ANIM_PLANE_216X_REAR_RIGHT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_216X_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_216X_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_216X_MP_WARP_REAR_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_216X_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_216X_MP_WARP_REAR_LEFT_1" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PLANE_216X_REAR_LEFT_1" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseFinerAlignTolerance DisableJackingAndBusting Use2DBodyBlend AllowEarlyDoorAndSeatUnreservation</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <AnimRateSet ref="NULL" />
+      <HandsUpClipSetId>busted_vehicle_std</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+      <MaxXAcceleration value="25.000000" />
+      <BodyLeanXApproachSpeed value="15.000000" />
+      <BodyLeanXSmallDelta value="0.100000" />
+      <LookBackApproachSpeedScale value="1.000000" />
+      <FirstPersonAdditiveIdleClipSets />
+      <FirstPersonRoadRageClipSets />
+      <CellphoneClipsets>
+        <CellphoneClipsetDS>ANIM_GROUP_CELLPHONE_IN_CAR_DS</CellphoneClipsetDS>
+        <CellphoneClipsetPS>ANIM_GROUP_CELLPHONE_IN_CAR_PS</CellphoneClipsetPS>
+        <CellphoneClipsetDS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetDS_FPS>
+        <CellphoneClipsetPS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetPS_FPS>
+      </CellphoneClipsets>
+    </Item>
+  </VehicleLayoutInfos>
+  <VehicleScenarioLayoutInfos />
+  <SeatOverrideAnimInfos />
+  <InVehicleOverrideInfos />
+  <FirstPersonDriveByLookAroundData />
+</CVehicleMetadataMgr>

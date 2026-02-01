@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>pjugular</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134 
+            0
+            156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>3874_pjugular_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="142" />
+      <sirenSettings value="38503" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

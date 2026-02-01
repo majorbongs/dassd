@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FirstPersonAlternateData>
+    <alternates>
+        <!--  Template 
+        <Item>
+            <assetName>MP__Freemode_01_mp__clothes_pack_cnr/</assetName>
+            <alternate value="1" />
+        </Item>
+        -->
+        <!-- MALE -->
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_026_u</assetName>
+            <alternate value="1" />
+        </Item>
+		        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/decl_029_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_027_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_029_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_043_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_052_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_067_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_068_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_070_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_071_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_072_u</assetName>
+            <alternate value="1" />
+        </Item>
+                <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/accs_121_u</assetName>
+            <alternate value="1" />
+        </Item>
+	    <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/berd_094_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/decl_001_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/decl_002_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/decl_003_u</assetName>
+            <alternate value="1" />
+        </Item> 
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/decl_004_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/decl_025_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/task_000_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/task_001_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_024_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_027_u</assetName>
+            <alternate value="1" />
+        </Item>
+                <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_032_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_041_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_055_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_068_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_084_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_095_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_096_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_097_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_098_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_122_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/jbib_127_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/hand_087_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/uppr_078_u</assetName>
+            <alternate value="1" />
+        </Item>
+                <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/uppr_082_u</assetName>
+            <alternate value="1" />
+        </Item>
+                        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/uppr_085_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/uppr_093_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/uppr_095_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_m_freemode_01_mp_m_clothes_pack_cnr/uppr_097_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <!-- FEMALE -->
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_022_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_023_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_033_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_049_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_051_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_060_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_063_u</assetName>
+            <alternate value="1" />
+        </Item>
+                <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_076_u</assetName>
+            <alternate value="1" />
+        </Item>
+                <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/accs_100_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/decl_000_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/decl_001_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/decl_003_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/decl_023_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_025_u</assetName>
+            <alternate value="1" />
+        </Item>
+                <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_040_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_046_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_047_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_055_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_056_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_082_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_088_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_115_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_118_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/jbib_121_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/berd_111_u</assetName>
+            <alternate value="1" />
+        </Item>
+        <Item>
+            <assetName>mp_f_freemode_01_mp_f_clothes_pack_cnr/uppr_073_u</assetName>
+            <alternate value="1" />
+        </Item>
+    </alternates>
+</FirstPersonAlternateData>
